@@ -4,6 +4,21 @@ Nacional
  
 #EXTINF:-1 group-logo="https://i.ibb.co/5hD6LMyY/Picsart-25-08-25-19-38-57-487.webp"
 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ea6437084f6c055c7c856f86361e86fa:9791c0e6f72b4a5eacf8bddfa5290209
+#EXTINF:-1 group-title="Variedades" ch-number="418" tvg-id="Love Nature.ar" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345917/n2qqptz2k27lp759s2it.png", Love Nature
+http://181.94.205.55:4022/udp/225.2.2.2:20025
+
+#EXTINF:-1 tvg-chno="1230" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ASPEN.png?raw=true" group-title="Música y Radios", Aspen (FM 102.3)
+https://playerservices.streamtheworld.com/api/livestream-redirect/ASPEN
+
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=863ed7f26cf51850b9ed735545c788ce:789edf190d78baefb569e8ca09ac86c2
+#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/6897/CH_LOGO/60/40/0/0/86582610074184.png" group-title="🇦🇷 FLOW"  ,🌐 Somos Rosario
+https://edge-live05-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2MzI2NTU5Iiwic2lwIjoiMjAxLjc3LjMuMjgiLCJwYXRoIjoiL2xpdmUvYzdlZHMvSGlzdG9yeUhEL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNzY3Y2E1OWQ3ZDJiZmZlMSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjMiLCJhdWQiOiIzMjQiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.aeJ4cUQ1JgMfOvtDJm1vtsjjM01TwPMqrdEjQ58wp6Gny7etB0g_16DuIsCgLjmz-LaXFsoFKdqRpf2JdvEFjA==/live/c5eds/Somos_Rosario/sa_dash_full_enc/Somos_Rosario.mpd
+
+
 #EXTINF:-1 tvg-id="PANICO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Canal_Panico.png/revision/latest?cb=20161218051332" group-title="Peliculas", PANICO
 http://181.78.8.199:8000/play/a0bt/index.m3u8
 
