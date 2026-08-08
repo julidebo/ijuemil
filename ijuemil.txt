@@ -4,8 +4,6 @@ Nacional
  
 #EXTINF:-1 group-logo="https://i.ibb.co/5hD6LMyY/Picsart-25-08-25-19-38-57-487.webp"
 
-#EXTINF:-1 tvg-chno="1230" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ASPEN.png?raw=true" group-title="Música y Radios", Aspen (FM 102.3)
-https://playerservices.streamtheworld.com/api/livestream-redirect/ASPEN
 
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -964,6 +962,8 @@ http://avefenixtv.com:80/live/JoseArriaga/Jose08Sept25/783520.ts
 #EXTINF:-1 tvg-id="CHAPULIN COLORADO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/500px-El_Chapul%C3%ADn_Colorado_logo.svg.png",CHAPULIN COLORADO 2
 http://digitaltv.pro:2082/live/Richard688/nvrZqLSAhb/646199.ts
 
+#EXTINF:-1 tvg-chno="1230" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ASPEN.png?raw=true" group-title="Música y Radios", Aspen (FM 102.3)
+https://playerservices.streamtheworld.com/api/livestream-redirect/ASPEN
 
 
 
