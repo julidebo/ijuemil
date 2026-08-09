@@ -580,14 +580,17 @@ https://edge-live03-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 #EXTINF:-1 tvg-id="PANICO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Canal_Panico.png/revision/latest?cb=20161218051332" group-title="Peliculas", PANICO
 http://181.78.8.199:8000/play/a0bt/index.m3u8
 
-#EXTINF:-1 tvg-id="FXMOVIES" tvg-logo="https://www.fmh.la/images/logos_slider/movies.png" group-title="Peliculas", FXMOVIES
+#EXTINF:-1 tvg-id="FXMOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/FHM.svg/960px-FHM.svg.png" group-title="Peliculas", FXMOVIES
 http://38.210.3.64:8090/play/a0gl/index.m3u8
 
-#EXTINF:-1 tvg-id="+CINE CLASSIC" tvg-logo="",+CINE CLASSIC
+#EXTINF:-1 tvg-id="+CINE CLASSIC" tvg-logo="https://e7.pngegg.com/pngimages/327/703/png-clipart-cinema-film-moveis-logo-film.png",+CINE CLASSIC
 http://190.102.242.130:25461/live/cineclasiipowe/12345/143.m3u8
 
-#EXTINF:-1 tvg-id="+CINE" tvg-logo="",+CINE
+#EXTINF:-1 tvg-id="+CINE" tvg-logo="https://e7.pngegg.com/pngimages/327/703/png-clipart-cinema-film-moveis-logo-film.png",+CINE
 http://190.102.242.130:25461/live/tpowercine/1234567/31.m3u8
+
+#EXTINF:-1 tvg-id="+CINE TERROR" tvg-logo="https://e7.pngegg.com/pngimages/327/703/png-clipart-cinema-film-moveis-logo-film.png",+CINE TERROR
+http://190.102.242.130:25461/terrorpower/12345678/99
 
 #EXTINF:-1 tvg-id="Golden.ar" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345548/waykhtjrltosfh3wiqkl.png" group-title="Cine + Series",Golden 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
