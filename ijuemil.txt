@@ -11,6 +11,7 @@ Nacional
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
 #EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/6897/CH_LOGO/60/40/0/0/86582610074184.png" group-title="🇦🇷 FLOW"  ,🌐 Somos Rosario
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 https://edge-live03-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2NDAwNzA1Iiwic2lwIjoiMjAxLjc3LjMuMjgiLCJwYXRoIjoiL2xpdmUvYzNlZHMvQW1lcmljYVRWL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYTdiOTY0NDg4YjU5MmQ1OSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzNDIiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.o2XesFLvZo-kYLeila0r7DWhRqgLBNcoKk6SRYxS_d06Y_W5JfD2KO2IMgL3ism1lVLdndLk7MAGwouQbGE8Sw==/live/c5eds/Somos_Rosario/SA_Live_dash_enc/Somos_Rosario.mpd
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/a24-ar.png" group-title="Nacional",A24 
@@ -18,6 +19,7 @@ https://edge-live03-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 #KODIPROP:inputstream.adaptive.license_key={"3b1b027dd011af20fd9956c16dc084fb":"45f75aacf06593c9b693fe427c67e5b8"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 https://edge-live03-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2NDAwNzA1Iiwic2lwIjoiMjAxLjc3LjMuMjgiLCJwYXRoIjoiL2xpdmUvYzNlZHMvQW1lcmljYVRWL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYTdiOTY0NDg4YjU5MmQ1OSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzNDIiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.o2XesFLvZo-kYLeila0r7DWhRqgLBNcoKk6SRYxS_d06Y_W5JfD2KO2IMgL3ism1lVLdndLk7MAGwouQbGE8Sw==/live/c7eds/America24/SA_Live_dash_enc/America24.mpd
 
 #EXTINF:-1 tvg-id="LaNacion+.ar" tvg-name="LNAC+" tvg-logo="https://i.postimg.cc/dtnjTfgB/LN.png" group-title="Nacional",La Nación + 
@@ -25,6 +27,7 @@ https://edge-live03-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 #KODIPROP:inputstream.adaptive.license_key={"f4eade7bbc39b25402acfa301bbad04a":"a74d1df4235a74878327aa8d53ff283c"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 https://edge-live03-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2NDAwNzA1Iiwic2lwIjoiMjAxLjc3LjMuMjgiLCJwYXRoIjoiL2xpdmUvYzNlZHMvQW1lcmljYVRWL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYTdiOTY0NDg4YjU5MmQ1OSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzNDIiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.o2XesFLvZo-kYLeila0r7DWhRqgLBNcoKk6SRYxS_d06Y_W5JfD2KO2IMgL3ism1lVLdndLk7MAGwouQbGE8Sw==/live/c7eds/La_Nacion/SA_Live_dash_enc/La_Nacion.mpd
 
 #EXTINF:-1 tvg-id="C5N.ar" tvg-name="C5NOT" tvg-logo="https://i.postimg.cc/05w67PCx/Fondo-Oscuro.png" group-title="Nacional",C5N 
@@ -32,6 +35,7 @@ https://edge-live03-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 #KODIPROP:inputstream.adaptive.license_key={"050df5c6e78c774e78c3e99eef8a1b29":"0e4141d6ab21a36cbc4da777ab3096d4"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 https://edge-live03-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2NDAwNzA1Iiwic2lwIjoiMjAxLjc3LjMuMjgiLCJwYXRoIjoiL2xpdmUvYzNlZHMvQW1lcmljYVRWL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYTdiOTY0NDg4YjU5MmQ1OSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzNDIiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.o2XesFLvZo-kYLeila0r7DWhRqgLBNcoKk6SRYxS_d06Y_W5JfD2KO2IMgL3ism1lVLdndLk7MAGwouQbGE8Sw==/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd
 
 #EXTINF:-1 tvg-id="Canal 26.ar" tvg-name="CAN26" tvg-logo="https://i.ibb.co/60XLr3MX/canal26-logo.png" group-title="Nacional",Canal 26 
@@ -39,6 +43,7 @@ https://edge-live03-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 #KODIPROP:inputstream.adaptive.license_key={"e32aaa4b67430b3b51be1efce5a74ac5":"ad60c5e1d378a97271bf8688f094d092"}
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 https://edge-live03-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2NDAwNzA1Iiwic2lwIjoiMjAxLjc3LjMuMjgiLCJwYXRoIjoiL2xpdmUvYzNlZHMvQW1lcmljYVRWL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYTdiOTY0NDg4YjU5MmQ1OSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzNDIiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.o2XesFLvZo-kYLeila0r7DWhRqgLBNcoKk6SRYxS_d06Y_W5JfD2KO2IMgL3ism1lVLdndLk7MAGwouQbGE8Sw==/live/c6eds/26_TV_HD/SA_Live_dash_enc/26_TV_HD.mpd
 
 #EXTINF:-1 tvg-id="Ar12.ar" tvg-name="AR|12" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/argentina-12-ar.png" group-title="Nacional",AR|12 
