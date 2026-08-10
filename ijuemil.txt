@@ -11,7 +11,7 @@ Nacional
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
 #EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/6897/CH_LOGO/60/40/0/0/86582610074184.png" group-title="🇦🇷 FLOW"  ,🌐 Somos Rosario
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=SuperPlayer1.0 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36
 https://edge-live03-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg2NDAwNzA1Iiwic2lwIjoiMjAxLjc3LjMuMjgiLCJwYXRoIjoiL2xpdmUvYzNlZHMvQW1lcmljYVRWL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiYTdiOTY0NDg4YjU5MmQ1OSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIzNDIiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.o2XesFLvZo-kYLeila0r7DWhRqgLBNcoKk6SRYxS_d06Y_W5JfD2KO2IMgL3ism1lVLdndLk7MAGwouQbGE8Sw==/live/c5eds/Somos_Rosario/SA_Live_dash_enc/Somos_Rosario.mpd
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/a24-ar.png" group-title="Nacional",A24 
