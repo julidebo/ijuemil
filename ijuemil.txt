@@ -5,16 +5,12 @@ Nacional
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=863ed7f26cf51850b9ed735545c788ce:789edf190d78baefb569e8ca09ac86c2
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
 #EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/6897/CH_LOGO/60/40/0/0/86582610074184.png" group-title="🇦🇷 FLOW"  ,🌐 Somos Rosario
 https://edge-live10-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3MDA2NTgxIiwic2lwIjoiMjAxLjc3LjMuNDEiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVE5UX1Nwb3J0c19IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjNiZDlkMmI3N2VhYTY1ZmIiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiMzE1Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.fscTzWIVpO0Zqhz_xzN3lNVi2Ivy10z9_aKpIzVFtnYgAie5aUcnIKx5dJ7DaSkqJE3wqcmWP7RRVfYaUzkNvw==/live/c5eds/Somos_Rosario/SA_Live_dash_enc/Somos_Rosario.mpd
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/a24-ar.png" group-title="Nacional",A24 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"3b1b027dd011af20fd9956c16dc084fb":"45f75aacf06593c9b693fe427c67e5b8"}
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
 https://edge-live10-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3MDA2NTgxIiwic2lwIjoiMjAxLjc3LjMuNDEiLCJwYXRoIjoiL2xpdmUvYzZlZHMvVE5UX1Nwb3J0c19IRC9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6IjNiZDlkMmI3N2VhYTY1ZmIiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTE1IiwiYXVkIjoiMzE1Iiwic291cmNlcyI6Wzg1LDE0NCwyMTAsODYsODhdfQ==.fscTzWIVpO0Zqhz_xzN3lNVi2Ivy10z9_aKpIzVFtnYgAie5aUcnIKx5dJ7DaSkqJE3wqcmWP7RRVfYaUzkNvw==/live/c7eds/America24/SA_Live_dash_enc/America24.mpd
 
 #EXTINF:-1 tvg-id="LaNacion+.ar" tvg-name="LNAC+" tvg-logo="https://i.postimg.cc/dtnjTfgB/LN.png" group-title="Nacional",La Nación + 
