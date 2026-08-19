@@ -594,7 +594,7 @@ https://edge-live15-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 
 
 #EXTINF:-1 tvg-id="Golden Edge.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png",GOLDEN EDGE
-http://190.108.83.69:8000/play/a00w/index.m3u8
+http://138.121.15.230:8081/GOLDEN-EDGE/mpegts
 
 
 HBO + Universal
@@ -805,7 +805,7 @@ Novelas + Variedades
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://190.108.83.69:8000/play/a085/index.m3u8
+http://45.4.0.11:80/lovenaturehd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Animal Planet.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHanimalplanet.png" group-title="Novelas + Variedades",Animal Planet 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
