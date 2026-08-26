@@ -112,8 +112,7 @@ https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.ey
 #KODIPROP:inputstream.adaptive.license_key=c61b5ac8e1664bf5b544e92ea2597e1c:938437ac25f0a18e04efc1a083489edc
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
-https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3NzM1ODAzIiwic2lwIjoiMjAxLjc3LjMuNDEiLCJwYXRoIjoiL2xpdmUvYzNlZHMvQW1lcmljYVRWL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNGM4MjRkM2NlZDYxMTVkMiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzNTEiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19._pS2i6yAyFMvs-zOsJCo6XX-8-t7mhGHFqDg1iPd78vIp8StMkMDftwRtNw_AidwlTiIRadoPsEAw1dK1LDdlQ==/live/c4eds/Canal_5_Rosario/SA_Live_dash_enc/Canal_5_Rosario.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
-
+https://cdn.cvattv.com.ar/live/c4eds/Canal_5_Rosario/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/Canal_5_Rosario.mpd
 
 
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-name="Canal 13.ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/eltrece-ar.png" group-title="Nacional",El Trece 
@@ -607,7 +606,7 @@ HBO + Universal
 #KODIPROP:inputstream.adaptive.license_key=5317283f4110fac3fb3a0becd9f648bc:0754a03c926b1247216e01d9dbcfac28
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
-https://edge-live21-sl.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg3NzM1ODAzIiwic2lwIjoiMjAxLjc3LjMuNDEiLCJwYXRoIjoiL2xpdmUvYzNlZHMvQW1lcmljYVRWL1NBX0xpdmVfZGFzaF9jZW5jLyIsInNlc3Npb25fY2RuX2lkIjoiNGM4MjRkM2NlZDYxMTVkMiIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiIzNTEiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19._pS2i6yAyFMvs-zOsJCo6XX-8-t7mhGHFqDg1iPd78vIp8StMkMDftwRtNw_AidwlTiIRadoPsEAw1dK1LDdlQ==/live/c4eds/HBOHD/SA_Live_dash_enc_wl/HBOHD.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
+https://cdn.cvattv.com.ar/live/c4eds/HBOHD/sa_dash_full_e_7CF9BB041AD89713AD8CF4CF/HBOHD.mpd
 
 #EXTINF:-1 tvg-id="HBO 2.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/HBO2P.png?raw=true" group-title="HBO + Universal",HBO 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
