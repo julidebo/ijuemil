@@ -3,12 +3,7 @@
 Nacional
  
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=863ed7f26cf51850b9ed735545c788ce:789edf190d78baefb569e8ca09ac86c2
-#EXTINF:-1   tvg-logo="https://static.flow.com.ar/images/6897/CH_LOGO/60/40/0/0/86582610074184.png" group-title="🇦🇷 FLOW"  ,🌐 Somos Rosario
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
-https://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4MTA4MDE3Iiwic2lwIjoiMjAxLjc3LjMuNDEiLCJwYXRoIjoiL2xpdmUvYzNlZHMvQWR1bHRfU3dpbS9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6Ijc3ZjE1ZTMyOGFkZjk4NjYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIzMTEiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.zJL2Xn6jYAUutLrkJRGRM6rFNPgWRk3Xw1e2565R385EPvgu_1vvkI-lrtSrK4wcMMLmIXL2NUfp1EkjJ-lTYw==/live/c4eds/Somos_Rosario/SA_Live_dash_enc/Somos_Rosario.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
+
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/a24-ar.png" group-title="Nacional",A24 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -570,13 +565,20 @@ http://181.78.8.199:8000/play/a0bt/index.m3u8
 http://38.210.105.10:8000/play/a07s/index.m3u8
 
 #EXTINF:-1 tvg-id="+CINE CLASSIC" tvg-logo="https://e7.pngegg.com/pngimages/327/703/png-clipart-cinema-film-moveis-logo-film.png",+CINE CLASSIC
-http://190.102.242.130:25461/live/cineclasiipowe/12345/143.m3u8
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/159.m3u8
 
-#EXTINF:-1 tvg-id="+CINE" tvg-logo="https://e7.pngegg.com/pngimages/327/703/png-clipart-cinema-film-moveis-logo-film.png",+CINE
-http://190.102.242.130:25461/live/tpowercine/1234567/31.m3u8
+#EXTINF:-1 tvg-id="+CINE ZOMBIES" tvg-logo="https://e7.pngegg.com/pngimages/327/703/png-clipart-cinema-film-moveis-logo-film.png",+CINE ZOMBIES
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/184.m3u8
 
 #EXTINF:-1 tvg-id="+CINE TERROR" tvg-logo="https://e7.pngegg.com/pngimages/327/703/png-clipart-cinema-film-moveis-logo-film.png",+CINE TERROR
-http://190.102.242.130:25461/terrorpower/12345678/99
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/181.m3u8
+
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=863ed7f26cf51850b9ed735545c788ce:789edf190d78baefb569e8ca09ac86c2
+#EXTINF:-1   tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Starz-logo-.jpg" group-title="🇦🇷 FLOW"  ,STARZ CINEMA
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/841.m3u8
 
 #EXTINF:-1 tvg-id="Golden.ar" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345548/waykhtjrltosfh3wiqkl.png" group-title="Cine + Series",Golden 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -586,9 +588,13 @@ http://190.102.242.130:25461/terrorpower/12345678/99
 https://edge-live07-hr.cvattv.com.ar/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4MTA4MDE3Iiwic2lwIjoiMjAxLjc3LjMuNDEiLCJwYXRoIjoiL2xpdmUvYzNlZHMvQWR1bHRfU3dpbS9TQV9MaXZlX2Rhc2hfY2VuYy8iLCJzZXNzaW9uX2Nkbl9pZCI6Ijc3ZjE1ZTMyOGFkZjk4NjYiLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzE4MS4xMi4zNi4xNTAiLCJhdWQiOiIzMTEiLCJzb3VyY2VzIjpbODUsMTQ0LDIxMCw4Niw4OF19.zJL2Xn6jYAUutLrkJRGRM6rFNPgWRk3Xw1e2565R385EPvgu_1vvkI-lrtSrK4wcMMLmIXL2NUfp1EkjJ-lTYw==/live/c6eds/Golden/SA_Live_dash_enc/Golden.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
 
-#EXTINF:-1 tvg-id="Golden Edge.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Golden_Edge_Logo_2020.png",GOLDEN EDGE
-http://138.121.15.230:8081/GOLDEN-EDGE/mpegts
-
+#EXTINF:-1 tvg-id="GoldenEdge.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/anB5Thv7Mm9EFKv4Xo51gQ?tags=CH_LOGO" group-title="CINE Y SERIES", GOLDEN EDGE
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=202c8579c94df506c1a1c54ef49a0c60:871f84901f3580cfa7273293482a66c5
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.ctcplus.com.ar/
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://player.sensa.com.ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4606.129 Safari/537.36 HxxTV/2.5 (DSG;LG/ESTCV)
+http://cdn.sensa.com.ar/live/eds/GoldenEdge/live_dash_cld/GoldenEdge.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 HBO + Universal
  
@@ -794,8 +800,8 @@ Novelas + Variedades
 #KODIPROP:inputstream.adaptive.license_key=ea6437084f6c055c7c856f86361e86fa:9791c0e6f72b4a5eacf8bddfa5290209
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-http://45.4.0.11:80/lovenaturehd/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4606.129 Safari/537.36 HxxTV/2.5 (DSG;LG/ESTCV)
+http://cdn.sensa.com.ar/bpk-tv/LoveNature/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-1 tvg-id="Animal Planet.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHanimalplanet.png" group-title="Novelas + Variedades",Animal Planet 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
