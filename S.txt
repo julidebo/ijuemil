@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/S1H5miC70xaoxaRogPiNUQ?tags=CH_LOGO" group-title="NACIONALES Y NOTICIAS", A24
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fff647cc4bf0ed6d9c9d105fa203fa9b:1353bdc83ce70cf61354586dc539b8e8
-http://45.226.28.9:8085/Live/7697d5530908ed3b1e7e434de6335163/local-a24.playlist.m3u8
+http://45.134.141.161:2200/ARG/A24/index.m3u8
 
 #EXTINF:10 tvg-id="LaNacion+.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/BG9e9Motv1bSmOQ5t3kDgw?tags=CH_LOGO" group-title="NACIONALES Y NOTICIAS", LA NACION +
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -215,12 +215,12 @@ http://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd?|referer=https://pl
 #EXTINF:-1 tvg-id="Espn2.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/pKel4txgUUES1wvAVQK9DQ?tags=CH_LOGO" group-title="DEPORTES", ESPN 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fd71a595f5b61225be82193536bd891b:279d9fb593bf5b8a4b4350171f6139fa
-http://45.226.28.9:8085/Live/7697d5530908ed3b1e7e434de6335163/local-espn2.playlist.m3u8
+http://138.121.113.175:8000/play/a03o/index.m3u8
 
 #EXTINF:-1 tvg-id="Espn3.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/GJZTYBktwR7UdbtNaK3PDg?tags=CH_LOGO" group-title="DEPORTES", ESPN 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=56cffe75198fa81600c625883f10ede1:87e203fb99dded387fd481126e7c5178
-http://45.226.28.9:8085/Live/7697d5530908ed3b1e7e434de6335163/local-espn3.playlist.m3u8
+http://138.121.113.175:8000/play/a03q/11894680.m3u8
 
 #EXTINF:-1 tvg-id="Espn4.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/jGyt-p8MW55TcZMkzRBHLw?tags=CH_LOGO" group-title="DEPORTES", ESPN 4
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -249,12 +249,12 @@ http://cdn.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd?|refere
 #EXTINF:-1 tvg-id="FoxSports2.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/8lNQixZEsN3Eadq_eLSVqg?tags=CH_LOGO" group-title="DEPORTES", FOX SPORTS 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=922eaebf57397ebf2656cbf71ae4775f:3014cf17de69d8f916a83cbf6b4aec94
-http://45.226.28.9:8085/Live/7697d5530908ed3b1e7e434de6335163/local-foxsport2.playlist.m3u8
+http://138.121.113.175:8000/play/a03r/index.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports3.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/aAian9WeLoU0vTudB9xL2g?tags=CH_LOGO" group-title="DEPORTES", FOX SPORTS 3 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee0ff8714c8f96a448eae5c9b796c889:d7c1e6b0d11ba5051096bb34779c6efb
-http://45.226.28.9:8085/Live/7697d5530908ed3b1e7e434de6335163/local-foxsport3.playlist.m3u8
+http://138.121.113.175:8000/play/a05j/index.m3u8
 
 #EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/qKmbSnB9ypnxgr-DsMOfww?tags=CH_LOGO" group-title="DEPORTES", TNT SPORTS
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -731,7 +731,7 @@ http://cdn.sensa.com.ar/live/eds/Universal/live_dash_cld/Universal.mpd?|referer=
 #EXTINF:-1 tvg-id="Warner.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/lEJaQrd2zxfbq4yG7GVGJw?tags=CH_LOGO" group-title="CINE Y SERIES", WARNER
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b95853b6afe7627118414c04c0827fb:e1f7e63cc427933f9c9fa01985a25521
-http://45.226.28.9:8085/Live/7697d5530908ed3b1e7e434de6335163/local-warner.playlist.m3u8
+http://138.121.113.175:8000/play/a03t/index.m3u8
 
 #EXTINF:-1 tvg-id="USA.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/PDBE9vBHXQYBlgCLtcVpIw?tags=CH_LOGO" group-title="CINE Y SERIES", USA NETWORK
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
