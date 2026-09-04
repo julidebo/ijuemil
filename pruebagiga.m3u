@@ -1,0 +1,145 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CanalLocalGigaredSantaFe" tvg-name="Canal Local Gigared Santa Fe",Canal Local Gigared Santa Fe
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c48d578949a3d595c87232a17430e375:6ef34a3ae28d31ddb9e3741fe15e36f8
+https://cdn02.gigared.com.ar/live/eds/Canal_Local_Gigared_Santa_Fe/sa_live_dash/Canal_Local_Gigared_Santa_Fe.mpd
+#EXTINF:-1 tvg-id="AmericaTV" tvg-name="AmericaTV",AmericaTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=32392e5868873c91ca77a0406b3d32d8:0f74f66dbeda0bb43b32445ea74d2087
+https://cdn03.gigared.com.ar/live/eds/AmericaTV/sa_live_dash/AmericaTV.mpd
+#EXTINF:-1 tvg-id="Canal9Litoral" tvg-name="Canal 9 Litoral",Canal 9 Litoral
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a12379137924358ec604d854587a516d:14343b93fa8ecf2eabad85cc295fb46a
+https://cdn02.gigared.com.ar/live/eds/Canal_9_Litoral/sa_live_dash/Canal_9_Litoral.mpd
+#EXTINF:-1 tvg-id="TelefeSantaFe" tvg-name="Telefe Santa Fe",Telefe Santa Fe
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a01eedf6b870a091a049a95ba6f85b15:9f161558348513e5f3ed3a3a3ea2867d
+https://cdn02.gigared.com.ar/live/eds/Telefe_Santa_Fe/sa_live_dash/Telefe_Santa_Fe.mpd
+#EXTINF:-1 tvg-id="TVPublica" tvg-name="TV Publica",TV Publica
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f50f7ac8cca2bcb40bf4a895b6378cea:0ca9392a44d0c0ff79abc01c15df8888
+https://cdn02.gigared.com.ar/live/eds/TV_Publica/sa_live_dash/TV_Publica.mpd
+#EXTINF:-1 tvg-id="Canal9" tvg-name="Canal 9",Canal 9
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eaecaad505a66fab4161959099767384:ca66afd7ba0f3ce767b698b5e94c84e3
+https://cdn02.gigared.com.ar/live/eds/Canal_9/sa_live_dash/Canal_9.mpd
+#EXTINF:-1 tvg-id="TN" tvg-name="TN",TN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5bb6f9ef3b632b7ba2797048b4941a0:53f33a7ab0729daee5dbe8ecc8ee2c08
+https://cdn03.gigared.com.ar/live/eds/TN/sa_live_dash/TN.mpd
+#EXTINF:-1 tvg-id="LNmas" tvg-name="LNmas",LNmas
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ffbe99278cd1aea87b3506d1c06defd6:fa8d96b8c2d97390ab329241a4e651ae
+https://cdn02.gigared.com.ar/live/eds/LNmas/sa_live_dash/LNmas.mpd
+#EXTINF:-1 tvg-id="C5N" tvg-name="C5N",C5N
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a4b47d87494bd17dd7acf86ebb6c3a32:5df76e3d86d8d88799c52eae263d08b0
+https://cdn03.gigared.com.ar/live/eds/C5N/sa_live_dash/C5N.mpd
+#EXTINF:-1 tvg-id="CronicaTV" tvg-name="CronicaTV",CronicaTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2932730b9b35ad5ded0e4d96af122676:57f01dd4f21f8786352399c80d36caf8
+https://cdn02.gigared.com.ar/live/eds/CronicaTV/sa_live_dash/CronicaTV.mpd
+#EXTINF:-1 tvg-id="Canal26" tvg-name="Canal26",Canal26
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e9a29d60110b731c5f3a141084379a40:8dcb1a09a6007fe72d621a09017276ba
+https://cdn02.gigared.com.ar/live/eds/Canal26/sa_live_dash/Canal26.mpd
+#EXTINF:-1 tvg-id="A24" tvg-name="A24",A24
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c43779fa115f80c118c29665cc78e4ba:4303ea7157eb2e6f6ce980bb87183825
+https://cdn02.gigared.com.ar/live/eds/A24/sa_live_dash/A24.mpd
+#EXTINF:-1 tvg-id="DeporTV" tvg-name="DeporTV",DeporTV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5f8bcea8ec9fdd5e6927e46ce856824b:3cf09d0c9ebeab2edfe600887e61b368
+https://cdn02.gigared.com.ar/live/eds/DeporTV/sa_live_dash/DeporTV.mpd
+#EXTINF:-1 tvg-id="TyCSports" tvg-name="TyC Sports",TyC Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cac7b52cb14661fe3db0449020791d97:0c2780acce4ef9d7334ef25be445ceb4
+https://cdn03.gigared.com.ar/live/eds/TyC_Sports/sa_live_dash/TyC_Sports.mpd
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN",ESPN
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b55a3ba068f882f49b36d216f29506f:77f418bbcfc73739ebca9c52321472d3
+https://cdn03.gigared.com.ar/live/eds/ESPN/sa_live_dash/ESPN.mpd
+#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN2",ESPN2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=02819f905f4e126d492693e44c688b82:a12adec960cd1e33ad3b8ddbf0dd22b9
+https://cdn03.gigared.com.ar/live/eds/ESPN2/sa_live_dash/ESPN2.mpd
+#EXTINF:-1 tvg-id="ESPN3" tvg-name="ESPN3",ESPN3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad0c72e30648501377425a62a2bf095c:2cfbc73f423203a9fc8a1d983ec4e8bb
+https://cdn02.gigared.com.ar/live/eds/ESPN3/sa_live_dash/ESPN3.mpd
+#EXTINF:-1 tvg-id="ESPN4" tvg-name="ESPN4",ESPN4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ecafef3b8979c737d05ea191a02b7617:f46cd12052b0da221a3a178e2bde0162
+https://cdn03.gigared.com.ar/live/eds/ESPN4/sa_live_dash/ESPN4.mpd
+#EXTINF:-1 tvg-id="FoxSports" tvg-name="Fox Sports",Fox Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c0016fff15fcc3cc5d103f821189100:94d789ac388ccbbfbd2cf91d5b7db028
+https://cdn02.gigared.com.ar/live/eds/Fox_Sports/sa_live_dash/Fox_Sports.mpd
+#EXTINF:-1 tvg-id="FoxSports2" tvg-name="Fox Sports 2",Fox Sports 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2e448d00073c0a66e02caa20a2fe135:70e9e4adfb2f0b5ac127654c1a56d238
+https://cdn03.gigared.com.ar/live/eds/Fox_Sports_2/sa_live_dash/Fox_Sports_2.mpd
+#EXTINF:-1 tvg-id="FoxSports3" tvg-name="Fox Sports 3",Fox Sports 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2f0d2f5e823bf3bd1113ed83b244c57:addd4c11afb303beb21f95f79a935561
+https://cdn02.gigared.com.ar/live/eds/Fox_Sports_3/sa_live_dash/Fox_Sports_3.mpd
+#EXTINF:-1 tvg-id="ElGarage" tvg-name="El Garage",El Garage
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c44389e1e90fb4d80e0a0d8090f8da1f:7bdf6460869276e70bd3eae576be2286
+https://cdn02.gigared.com.ar/live/eds/El_Garage/sa_live_dash/El_Garage.mpd
+#EXTINF:-1 tvg-id="DiscoveryTurbo" tvg-name="Discovery Turbo",Discovery Turbo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=55b1aff18cff06f311d2f53145c0a748:7556d7b06fa5f94c7501c8956a764931
+https://cdn02.gigared.com.ar/live/eds/Discovery_Turbo/sa_live_dash/Discovery_Turbo.mpd
+#EXTINF:-1 tvg-id="PakaPaka" tvg-name="PakaPaka",PakaPaka
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0aa7687e39e7e7e2e3d64d87a2fa1920:523cc84985fadae95289dd88838133c9
+https://cdn03.gigared.com.ar/live/eds/PakaPaka/sa_live_dash/PakaPaka.mpd
+#EXTINF:-1 tvg-id="DisneyChannel" tvg-name="Disney Channel",Disney Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=629f78368829802ade506b8f03e2d18b:6824ea53d6fd70d146b9e31a57cf3a20
+https://cdn03.gigared.com.ar/live/eds/Disney_Channel/sa_live_dash/Disney_Channel.mpd
+#EXTINF:-1 tvg-id="DisneyJunior" tvg-name="Disney Junior",Disney Junior
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0eabe9f5aee4020c50f52a2bf476ac57:490fc8a1a900893d20631da45412879d
+https://cdn03.gigared.com.ar/live/eds/Disney_Junior/sa_live_dash/Disney_Junior.mpd
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon",Nickelodeon
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=611595b6387cdcfb67ce564768fd61aa:dd5fba9ab529822129c09c029b28651c
+https://cdn02.gigared.com.ar/live/eds/Nickelodeon/sa_live_dash/Nickelodeon.mpd
+#EXTINF:-1 tvg-id="DiscoveryKids" tvg-name="Discovery Kids",Discovery Kids
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1f92dc6055aefecb8a2abdba9ecf65cb:23a68bb309729298ceb3b5fcd3ff174d
+https://cdn03.gigared.com.ar/live/eds/Discovery_Kids/sa_live_dash/Discovery_Kids.mpd
+#EXTINF:-1 tvg-id="PlimPlim" tvg-name="Plim Plim",Plim Plim
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44292917d1f5519af4598ccfc66b53dd:f90cee2e43e02176113cff8ccf09465e
+https://cdn02.gigared.com.ar/live/eds/Plim_Plim/sa_live_dash/Plim_Plim.mpd
+#EXTINF:-1 tvg-id="ZooMoo" tvg-name="Zoo Moo",Zoo Moo
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8fe8869466801cac2f84dcc6c3584d76:d6c878a3c04face66707d817ec62d628
+https://cdn03.gigared.com.ar/live/eds/Zoo_Moo/sa_live_dash/Zoo_Moo.mpd
+#EXTINF:-1 tvg-id="Cinear" tvg-name="Cine ar",Cine ar
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ff87d23b45efc58ff6a7ad0f5fdef566:0e84fa871d67fede2c5385b54b60b5dc
+https://cdn02.gigared.com.ar/live/eds/Cine_ar/sa_live_dash/Cine_ar.mpd
+#EXTINF:-1 tvg-id="Cinecanal" tvg-name="Cinecanal",Cinecanal
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed9cb36b2c7ab639bb5b8627b2e980e8:a0d844faf1c31330165393e43e0d3bd8
+https://cdn03.gigared.com.ar/live/eds/Cinecanal/sa_live_dash/Cinecanal.mpd
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT",TNT
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d9e8eb8d97c4ff0dbfb02c3c417ae48:a426cb9e3ff4cac8b2e153ef54e69072
+https://cdn03.gigared.com.ar/live/eds/TNT/sa_live_dash/TNT.mpd
+#EXTINF:-1 tvg-id="FX" tvg-name="FX",FX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b060d6864d9b870b3a5f43c10370977c:7a9104e80a2bd14429ad4c877a9926b5
+https://cdn03.gigared.com.ar/live/eds/FX/sa_live_dash/FX.mpd
+#EXTINF:-1 tvg-id="StarChannel" tvg-name="Star Channel",Star Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ba8e3594a2280a1f0b749d66dccfab99:efa66c01f0e96775398994f1754be46b
+https://cdn03.gigared.com.ar/live/eds/Star_Channel/sa_live_dash/Star_Channel.mpd
+#EXTINF:-1 tvg-id="SonyChannel" tvg-name="Sony Channel",Sony Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2e6c6842391fd4d9dfe3c047e286eb4:7d563478e5669d44cec9a6215052fec3
+https://cdn02.gigared.com.ar/live/eds/Sony_Channel/sa_live_dash/Sony_Channel.mpd
