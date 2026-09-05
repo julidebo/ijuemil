@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/argentina.xml.gz,https://github.com/RulexURY/epg/raw/refs/heads/main/epg/github.xml.gz,https://raw.githubusercontent.com/mudstein/XML-EPG-LAT/refs/heads/master/AR.xml"
+#EXTM3U url-tvg="https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/argentina.xml.gz,https://github.com/RulexURY/epg/raw/refs/heads/main/epg/github.xml.gz,https://raw.githubusercontent.com/mudstein/XML-EPG-LAT/refs/heads/master/AR.xml,https://www.open-epg.com/files/uruguay2.xml,https://www.open-epg.com/files/argentina.xml"
  
 Nacional
  
@@ -182,6 +182,12 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hoo4ddqavw/
 #EXTINF:-1 tvg-id="1148" tvg-logo="http://i.tvcluboficial.com/dazn.png" group-title="Deportes",DAZN F1 HD
 http://45.134.141.161:2200/ARG/DAZN_1_HD/index.m3u8
 
+#EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/48/CH_LOGO/160/160/0/0/13868550072195.png" group-title="Deportes",DeporTV 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e721cdf9043ee562296005056a2757de:70259c9d827905e8088cdedceb56ae87
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
+https://edge6-ccast-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4Njg5NTg1Iiwic2lwIjoiMjAxLjQ5LjEzNC41IiwicGF0aCI6Ii8iLCJzZXNzaW9uX2Nkbl9pZCI6IjdiNmE5M2MyYmFiZjc0OTciLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjI1Iiwic291cmNlcyI6Wzg4XX0=.wydh_TQwOWnHzfgmtPtFepPBexwcQzRauw7e_LzMVGFY12EayPzvy7JVHJ04sCttL4GLoHWYp1w6Pw-7NjiYVg==/live/c3eds/DeporTVHD/SA_Live_dash_enc/DeporTVHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"2b21c8fa9a329cce311a4c4a4aa996a1":"cc23ea1fb32629f9e1f48c8deeae3e5b"}
@@ -503,13 +509,12 @@ https://edge6-ccast-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ
 https://edge6-ccast-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4Njg5NTg1Iiwic2lwIjoiMjAxLjQ5LjEzNC41IiwicGF0aCI6Ii8iLCJzZXNzaW9uX2Nkbl9pZCI6IjdiNmE5M2MyYmFiZjc0OTciLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjI1Iiwic291cmNlcyI6Wzg4XX0=.wydh_TQwOWnHzfgmtPtFepPBexwcQzRauw7e_LzMVGFY12EayPzvy7JVHJ04sCttL4GLoHWYp1w6Pw-7NjiYVg==/live/c7eds/A3_Cine/SA_Live_dash_enc/A3_Cine.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
 
-#EXTINF:-1 tvg-id="FX.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/ca4ji9rF9Sh8CkWKki8Pzw?tags=CH_LOGO" group-title="CINE Y SERIES", FX
+#EXTINF:-1 tvg-id="FX.ar" tvg-name="FX" tvg-logo="https://i.postimg.cc/sg7qWnn7/V2.png" group-title="Cine + Series",FX 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=bbb8c81822a1628f4986c6379ca5406a:b661265baada5324eb826224a4f358bd
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.ctcplus.com.ar/
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4606.129 Safari/537.36 HxxTV/2.5 (DSG;LG/ESTCV)
-http://cdn.sensa.com.ar/live/eds/FX/live_dash_cld/FX.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#KODIPROP:inputstream.adaptive.license_key={"9701932cab0e4aa3b8078176d5d54dd0":"76819026588b16fd7083436b2b94485e"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
+https://edge6-ccast-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg4Njg5NTg1Iiwic2lwIjoiMjAxLjQ5LjEzNC41IiwicGF0aCI6Ii8iLCJzZXNzaW9uX2Nkbl9pZCI6IjdiNmE5M2MyYmFiZjc0OTciLCJzZXNzaW9uX2lkIjoiIiwiY2xpZW50X2lkIjoiIiwiZGV2aWNlX2lkIjoiIiwibWF4X3Nlc3Npb25zIjowLCJzZXNzaW9uX2R1cmF0aW9uIjowLCJ1cmwiOiJodHRwczovLzIwMS4yMzUuNjYuMTIzIiwiYXVkIjoiMjI1Iiwic291cmNlcyI6Wzg4XX0=.wydh_TQwOWnHzfgmtPtFepPBexwcQzRauw7e_LzMVGFY12EayPzvy7JVHJ04sCttL4GLoHWYp1w6Pw-7NjiYVg==/out/v1/FXHD/SA_Live_dash_enc/FXHD.mpd
 
 
 #EXTINF:-1 tvg-id="PANICO" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/10/Canal_Panico.png/revision/latest?cb=20161218051332" group-title="Peliculas", PANICO
