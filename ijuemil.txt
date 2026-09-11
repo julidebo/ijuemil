@@ -2,8 +2,12 @@
  
 Nacional
  
-
-
+#EXTINF:-1,Somos Rosario
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2ca95cff9a7781ad8f2889063496bccc:0901d3bebb0c2fe8db3870a21f736b5d
+https://edge-live12-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MTgwOTg5Iiwic2lwIjoiMTgxLjExNy4xNzYuODMiLCJwYXRoIjoiLyIsInNlc3Npb25fY2RuX2lkIjoiYTdmMjA3NjY2OWQ2NTY1NSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTgxLjEyLjM2LjE1MCIsImF1ZCI6IjY1Iiwic291cmNlcyI6Wzg4XX0=.bz64FbENIPAfFeuAbxECrgNTQ8ug69_P4PPbW0RzcfNNAPl_1HOW7JGHHxLR29efvzWzX5JhgfyyUUAbWk20YA==/live/c5eds/Somos_Rosario/SA_Live_dash_enc_wl/Somos_Rosario.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar/"
 
 #EXTINF:-1 tvg-id="A24.ar" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/a24-ar.png" group-title="Nacional",A24 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -321,6 +325,55 @@ Cine + Series
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
 https://edge-live12-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MTgwOTg5Iiwic2lwIjoiMTgxLjExNy4xNzYuODMiLCJwYXRoIjoiLyIsInNlc3Npb25fY2RuX2lkIjoiYTdmMjA3NjY2OWQ2NTY1NSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTgxLjEyLjM2LjE1MCIsImF1ZCI6IjY1Iiwic291cmNlcyI6Wzg4XX0=.bz64FbENIPAfFeuAbxECrgNTQ8ug69_P4PPbW0RzcfNNAPl_1HOW7JGHHxLR29efvzWzX5JhgfyyUUAbWk20YA==/live/c7eds/Telemundo_HD/SA_Live_dash_enc/Telemundo_HD.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
+
+#EXTINF:-1,DNews
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5dcaeaa309c8d828c7731c7877158a92:423e96f5f1199b026cbab4a7521e0591
+https://edge-live12-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MTgwOTg5Iiwic2lwIjoiMTgxLjExNy4xNzYuODMiLCJwYXRoIjoiLyIsInNlc3Npb25fY2RuX2lkIjoiYTdmMjA3NjY2OWQ2NTY1NSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTgxLjEyLjM2LjE1MCIsImF1ZCI6IjY1Iiwic291cmNlcyI6Wzg4XX0=.bz64FbENIPAfFeuAbxECrgNTQ8ug69_P4PPbW0RzcfNNAPl_1HOW7JGHHxLR29efvzWzX5JhgfyyUUAbWk20YA==/live/c7eds/DNews/SA_Live_dash_enc_wl/DNews.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar/"
+
+#EXTINF:-1,France24 Flow
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=92e2f2caa23a7b883e343b26c9f90ed1:ff145008f5c53ee75c6d3498cd778acc
+https://edge-live12-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MTgwOTg5Iiwic2lwIjoiMTgxLjExNy4xNzYuODMiLCJwYXRoIjoiLyIsInNlc3Npb25fY2RuX2lkIjoiYTdmMjA3NjY2OWQ2NTY1NSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTgxLjEyLjM2LjE1MCIsImF1ZCI6IjY1Iiwic291cmNlcyI6Wzg4XX0=.bz64FbENIPAfFeuAbxECrgNTQ8ug69_P4PPbW0RzcfNNAPl_1HOW7JGHHxLR29efvzWzX5JhgfyyUUAbWk20YA==/live/c3eds/France24_Flow/SA_Live_dash_enc_wl/France24_Flow.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar/"
+
+#EXTINF:-1,France 24
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f687c6991de847a7570aaafed45ef0ef:f9ef914c2d632cdbc180d5b4828f0956
+https://edge-live12-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MTgwOTg5Iiwic2lwIjoiMTgxLjExNy4xNzYuODMiLCJwYXRoIjoiLyIsInNlc3Npb25fY2RuX2lkIjoiYTdmMjA3NjY2OWQ2NTY1NSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTgxLjEyLjM2LjE1MCIsImF1ZCI6IjY1Iiwic291cmNlcyI6Wzg4XX0=.bz64FbENIPAfFeuAbxECrgNTQ8ug69_P4PPbW0RzcfNNAPl_1HOW7JGHHxLR29efvzWzX5JhgfyyUUAbWk20YA==/live/c6eds/France_24/SA_Live_dash_enc_wl/France_24.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar/"
+
+#EXTINF:-1,Canal de las estrellas
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=de5029988df5bb682986df4fb5ed3e70:0170fc52a8dc136055e0cfd0a77d5761
+https://edge-live12-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MTgwOTg5Iiwic2lwIjoiMTgxLjExNy4xNzYuODMiLCJwYXRoIjoiLyIsInNlc3Npb25fY2RuX2lkIjoiYTdmMjA3NjY2OWQ2NTY1NSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTgxLjEyLjM2LjE1MCIsImF1ZCI6IjY1Iiwic291cmNlcyI6Wzg4XX0=.bz64FbENIPAfFeuAbxECrgNTQ8ug69_P4PPbW0RzcfNNAPl_1HOW7JGHHxLR29efvzWzX5JhgfyyUUAbWk20YA==/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc_wl/Canal_de_las_estrellas.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar/"
+
+#EXTINF:-1,Antena 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a9a898c754cddb9da22fce3ae9cd963a:f5854da52404b3eabbff4cdf1438ceff
+https://edge-live12-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MTgwOTg5Iiwic2lwIjoiMTgxLjExNy4xNzYuODMiLCJwYXRoIjoiLyIsInNlc3Npb25fY2RuX2lkIjoiYTdmMjA3NjY2OWQ2NTY1NSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTgxLjEyLjM2LjE1MCIsImF1ZCI6IjY1Iiwic291cmNlcyI6Wzg4XX0=.bz64FbENIPAfFeuAbxECrgNTQ8ug69_P4PPbW0RzcfNNAPl_1HOW7JGHHxLR29efvzWzX5JhgfyyUUAbWk20YA==/live/c6eds/Antena_3/SA_Live_dash_enc_wl/Antena_3.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar/"
+
+#EXTINF:-1,Telesur
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=f17be4245a7cb8e2ab26217da9eaf4c7:a568d5b8845d5713b4cfdefe6ce2e545
+https://edge-live12-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MTgwOTg5Iiwic2lwIjoiMTgxLjExNy4xNzYuODMiLCJwYXRoIjoiLyIsInNlc3Npb25fY2RuX2lkIjoiYTdmMjA3NjY2OWQ2NTY1NSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTgxLjEyLjM2LjE1MCIsImF1ZCI6IjY1Iiwic291cmNlcyI6Wzg4XX0=.bz64FbENIPAfFeuAbxECrgNTQ8ug69_P4PPbW0RzcfNNAPl_1HOW7JGHHxLR29efvzWzX5JhgfyyUUAbWk20YA==/live/c6eds/Telesur/SA_Live_dash_enc_wl/Telesur.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar/"
+
+#EXTINF:-1,Tv Chile
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=44e6bd9d428c25bb1bc4d08af13443e3:6bd379fea45f1fe273279b0f88994ad4
+https://edge-live12-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MTgwOTg5Iiwic2lwIjoiMTgxLjExNy4xNzYuODMiLCJwYXRoIjoiLyIsInNlc3Npb25fY2RuX2lkIjoiYTdmMjA3NjY2OWQ2NTY1NSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTgxLjEyLjM2LjE1MCIsImF1ZCI6IjY1Iiwic291cmNlcyI6Wzg4XX0=.bz64FbENIPAfFeuAbxECrgNTQ8ug69_P4PPbW0RzcfNNAPl_1HOW7JGHHxLR29efvzWzX5JhgfyyUUAbWk20YA==/live/c6eds/Tv_Chile/SA_Live_dash_enc_wl/Tv_Chile.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar/"
 
 #EXTINF:-1 tvg-id="Pasiones.uy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/pasiones-ar.png" group-title="Novelas + Variedades",Pasiones 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
