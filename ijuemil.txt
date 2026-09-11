@@ -326,54 +326,13 @@ Cine + Series
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
 https://edge-live12-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MTgwOTg5Iiwic2lwIjoiMTgxLjExNy4xNzYuODMiLCJwYXRoIjoiLyIsInNlc3Npb25fY2RuX2lkIjoiYTdmMjA3NjY2OWQ2NTY1NSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTgxLjEyLjM2LjE1MCIsImF1ZCI6IjY1Iiwic291cmNlcyI6Wzg4XX0=.bz64FbENIPAfFeuAbxECrgNTQ8ug69_P4PPbW0RzcfNNAPl_1HOW7JGHHxLR29efvzWzX5JhgfyyUUAbWk20YA==/live/c7eds/Telemundo_HD/SA_Live_dash_enc/Telemundo_HD.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
-#EXTINF:-1,DNews
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1  tvg-id="Las Estrellas HD.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/263/CH_LOGO/160/160/0/0/17581646072235.png" group-title="Novelas + Variedades",Canal De Las Estrellas 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=5dcaeaa309c8d828c7731c7877158a92:423e96f5f1199b026cbab4a7521e0591
-https://edge-live12-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MTgwOTg5Iiwic2lwIjoiMTgxLjExNy4xNzYuODMiLCJwYXRoIjoiLyIsInNlc3Npb25fY2RuX2lkIjoiYTdmMjA3NjY2OWQ2NTY1NSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTgxLjEyLjM2LjE1MCIsImF1ZCI6IjY1Iiwic291cmNlcyI6Wzg4XX0=.bz64FbENIPAfFeuAbxECrgNTQ8ug69_P4PPbW0RzcfNNAPl_1HOW7JGHHxLR29efvzWzX5JhgfyyUUAbWk20YA==/live/c7eds/DNews/SA_Live_dash_enc_wl/DNews.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar/"
+#KODIPROP:inputstream.adaptive.license_key={"de5029988df5bb682986df4fb5ed3e70":"0170fc52a8dc136055e0cfd0a77d5761"}
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
+https://edge-live12-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MTgwOTg5Iiwic2lwIjoiMTgxLjExNy4xNzYuODMiLCJwYXRoIjoiLyIsInNlc3Npb25fY2RuX2lkIjoiYTdmMjA3NjY2OWQ2NTY1NSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTgxLjEyLjM2LjE1MCIsImF1ZCI6IjY1Iiwic291cmNlcyI6Wzg4XX0=.bz64FbENIPAfFeuAbxECrgNTQ8ug69_P4PPbW0RzcfNNAPl_1HOW7JGHHxLR29efvzWzX5JhgfyyUUAbWk20YA==/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc/Canal_de_las_estrellas.mpd
 
-#EXTINF:-1,France24 Flow
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=92e2f2caa23a7b883e343b26c9f90ed1:ff145008f5c53ee75c6d3498cd778acc
-https://edge-live12-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MTgwOTg5Iiwic2lwIjoiMTgxLjExNy4xNzYuODMiLCJwYXRoIjoiLyIsInNlc3Npb25fY2RuX2lkIjoiYTdmMjA3NjY2OWQ2NTY1NSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTgxLjEyLjM2LjE1MCIsImF1ZCI6IjY1Iiwic291cmNlcyI6Wzg4XX0=.bz64FbENIPAfFeuAbxECrgNTQ8ug69_P4PPbW0RzcfNNAPl_1HOW7JGHHxLR29efvzWzX5JhgfyyUUAbWk20YA==/live/c3eds/France24_Flow/SA_Live_dash_enc_wl/France24_Flow.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar/"
-
-#EXTINF:-1,France 24
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f687c6991de847a7570aaafed45ef0ef:f9ef914c2d632cdbc180d5b4828f0956
-https://edge-live12-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MTgwOTg5Iiwic2lwIjoiMTgxLjExNy4xNzYuODMiLCJwYXRoIjoiLyIsInNlc3Npb25fY2RuX2lkIjoiYTdmMjA3NjY2OWQ2NTY1NSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTgxLjEyLjM2LjE1MCIsImF1ZCI6IjY1Iiwic291cmNlcyI6Wzg4XX0=.bz64FbENIPAfFeuAbxECrgNTQ8ug69_P4PPbW0RzcfNNAPl_1HOW7JGHHxLR29efvzWzX5JhgfyyUUAbWk20YA==/live/c6eds/France_24/SA_Live_dash_enc_wl/France_24.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar/"
-
-#EXTINF:-1,Canal de las estrellas
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=de5029988df5bb682986df4fb5ed3e70:0170fc52a8dc136055e0cfd0a77d5761
-https://edge-live12-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MTgwOTg5Iiwic2lwIjoiMTgxLjExNy4xNzYuODMiLCJwYXRoIjoiLyIsInNlc3Npb25fY2RuX2lkIjoiYTdmMjA3NjY2OWQ2NTY1NSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTgxLjEyLjM2LjE1MCIsImF1ZCI6IjY1Iiwic291cmNlcyI6Wzg4XX0=.bz64FbENIPAfFeuAbxECrgNTQ8ug69_P4PPbW0RzcfNNAPl_1HOW7JGHHxLR29efvzWzX5JhgfyyUUAbWk20YA==/live/c6eds/Canal_de_las_estrellas/SA_Live_dash_enc_wl/Canal_de_las_estrellas.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar/"
-
-#EXTINF:-1,Antena 3
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=a9a898c754cddb9da22fce3ae9cd963a:f5854da52404b3eabbff4cdf1438ceff
-https://edge-live12-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MTgwOTg5Iiwic2lwIjoiMTgxLjExNy4xNzYuODMiLCJwYXRoIjoiLyIsInNlc3Npb25fY2RuX2lkIjoiYTdmMjA3NjY2OWQ2NTY1NSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTgxLjEyLjM2LjE1MCIsImF1ZCI6IjY1Iiwic291cmNlcyI6Wzg4XX0=.bz64FbENIPAfFeuAbxECrgNTQ8ug69_P4PPbW0RzcfNNAPl_1HOW7JGHHxLR29efvzWzX5JhgfyyUUAbWk20YA==/live/c6eds/Antena_3/SA_Live_dash_enc_wl/Antena_3.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar/"
-
-#EXTINF:-1,Telesur
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=f17be4245a7cb8e2ab26217da9eaf4c7:a568d5b8845d5713b4cfdefe6ce2e545
-https://edge-live12-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MTgwOTg5Iiwic2lwIjoiMTgxLjExNy4xNzYuODMiLCJwYXRoIjoiLyIsInNlc3Npb25fY2RuX2lkIjoiYTdmMjA3NjY2OWQ2NTY1NSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTgxLjEyLjM2LjE1MCIsImF1ZCI6IjY1Iiwic291cmNlcyI6Wzg4XX0=.bz64FbENIPAfFeuAbxECrgNTQ8ug69_P4PPbW0RzcfNNAPl_1HOW7JGHHxLR29efvzWzX5JhgfyyUUAbWk20YA==/live/c6eds/Telesur/SA_Live_dash_enc_wl/Telesur.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar/"
-
-#EXTINF:-1,Tv Chile
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=44e6bd9d428c25bb1bc4d08af13443e3:6bd379fea45f1fe273279b0f88994ad4
-https://edge-live12-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MTgwOTg5Iiwic2lwIjoiMTgxLjExNy4xNzYuODMiLCJwYXRoIjoiLyIsInNlc3Npb25fY2RuX2lkIjoiYTdmMjA3NjY2OWQ2NTY1NSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTgxLjEyLjM2LjE1MCIsImF1ZCI6IjY1Iiwic291cmNlcyI6Wzg4XX0=.bz64FbENIPAfFeuAbxECrgNTQ8ug69_P4PPbW0RzcfNNAPl_1HOW7JGHHxLR29efvzWzX5JhgfyyUUAbWk20YA==/live/c6eds/Tv_Chile/SA_Live_dash_enc_wl/Tv_Chile.mpd|Referer="https://portal.app.flow.com.ar/"|Origin="https://portal.app.flow.com.ar/"
 
 #EXTINF:-1 tvg-id="Pasiones.uy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/argentina/pasiones-ar.png" group-title="Novelas + Variedades",Pasiones 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -566,6 +525,24 @@ https://edge-live12-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4606.129 Safari/537.36 HxxTV/2.5 (DSG;LG/ESTCV)
 http://cdn.sensa.com.ar/live/eds/GoldenEdge/live_dash_cld/GoldenEdge.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
+#EXTINF:-1 tvg-name="GOLDEN PLUS" tvg-logo="https://i.ibb.co/NyNYXrx/golden-plus.png" group-title="Cine + Series",Golden Plus
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ed5849d33e07606d6118d7fb26b90cd0:63670e57e70353ca526fb07a8d7ddb7b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTVLCOPT:http-origin=https://www.primevideo.com
+https://live-pv-ta.amazon.fastly-edge.com/iad-nitro/live/clients/dash/enc/o09knwldwh/out/v1/15f9f74c888e4fdd9815ea94635ae4db/cenc.mpd
+
+
+#EXTINF:-1 tvg-name="GOLDEN PREMIER" tvg-logo="https://i.ibb.co/6D60Brn/golden-premier.png" group-title="Cine + Series",Golden Premier
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b39fdb1efc89fa2b791bdce8428c3e09:1941081db257b29643c95783d3a2c5cd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.primevideo.com/
+#EXTVLCOPT:http-origin=https://www.primevideo.com
+https://live-pv-ta.amazon.fastly-edge.com/gru-nitro/live/clients/dash/enc/1pyrprmguo/out/v1/e63748f718754f6ca76df9ce757b10f5/cenc.mpd
+
+
 HBO + Universal
  
 #EXTINF:-1 group-logo="https://i.ibb.co/ZpBmSdPG/Picsart-25-08-24-14-03-18-765.webp"
@@ -655,6 +632,13 @@ https://edge-live12-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
 https://edge-live12-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MTgwOTg5Iiwic2lwIjoiMTgxLjExNy4xNzYuODMiLCJwYXRoIjoiLyIsInNlc3Npb25fY2RuX2lkIjoiYTdmMjA3NjY2OWQ2NTY1NSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTgxLjEyLjM2LjE1MCIsImF1ZCI6IjY1Iiwic291cmNlcyI6Wzg4XX0=.bz64FbENIPAfFeuAbxECrgNTQ8ug69_P4PPbW0RzcfNNAPl_1HOW7JGHHxLR29efvzWzX5JhgfyyUUAbWk20YA==/live/c6eds/Universal_Premiere/SA_Live_dash_enc/Universal_Premiere.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
+#EXTINF:-1 tvg-name="UNIVERSAL PREMIERE OESTE" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1285/CH_LOGO/800/542/0/0/62685863076950.png" group-title="HBO + Universal",Universal Premiere Oeste
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?key=ba3f1a0580b46e371a6b02ef2ab2304f&keyid=547c1e15b8e93f1077d34f77a7ab018f
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/ciqsqqxp8g/out/v1/e9283351f50849a8ab602a894772649f/cenc.mpd
+
 
 #EXTINF:-1 tvg-id="Universal Cinema.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1282/CH_LOGO/160/160/0/0/21817888076947.png" group-title="HBO + Universal",Universal Cinema
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -663,6 +647,12 @@ https://edge-live12-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
 https://edge-live12-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5MTgwOTg5Iiwic2lwIjoiMTgxLjExNy4xNzYuODMiLCJwYXRoIjoiLyIsInNlc3Npb25fY2RuX2lkIjoiYTdmMjA3NjY2OWQ2NTY1NSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMTgxLjEyLjM2LjE1MCIsImF1ZCI6IjY1Iiwic291cmNlcyI6Wzg4XX0=.bz64FbENIPAfFeuAbxECrgNTQ8ug69_P4PPbW0RzcfNNAPl_1HOW7JGHHxLR29efvzWzX5JhgfyyUUAbWk20YA==/live/c6eds/Universal_Cinema/SA_Live_dash_enc/Universal_Cinema.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
+#EXTINF:-1 tvg-name="UNIVERSAL CINEMA OESTE" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1282/CH_LOGO/800/542/0/0/21817888076947.png" group-title="HBO + Universal",Universal Cinema Oeste
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://delgadolife.net/mundo/api/results.php?key=0295a763fca3851258af5901907bf0b1&keyid=be1597d0eb3b71cb21b8e8a55230874d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+https://netskrt.live.pv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/eishhvjuuz/out/v1/92b27f5cd5244bba8071fcd0d09be067/cenc.mpd
 
 
 #EXTINF:-1 tvg-id="Universal Comedy.uy" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1283/CH_LOGO/160/160/0/0/94843453076948.png" group-title="HBO + Universal",Universal Comedy 
