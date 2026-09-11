@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/argentina.xml.gz,https://github.com/RulexURY/epg/raw/refs/heads/main/epg/github.xml.gz,https://raw.githubusercontent.com/mudstein/XML-EPG-LAT/refs/heads/master/AR.xml,https://www.open-epg.com/files/uruguay2.xml,https://www.open-epg.com/files/argentina.xml"
+#EXTM3U url-tvg="https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/argentina.xml.gz,https://github.com/RulexURY/epg/raw/refs/heads/main/epg/github.xml.gz,https://raw.githubusercontent.com/mudstein/XML-EPG-LAT/refs/heads/master/AR.xml,https://www.open-epg.com/files/uruguay2.xml,https://www.open-epg.com/files/argentina.xml,https://www.open-epg.com/files/argentina4.xml"
  
 Nacional
  
