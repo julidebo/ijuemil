@@ -22,7 +22,7 @@ http://45.134.141.161:2200/ARG/C5N/index.m3u8
 #EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/u5NM8LAogdMb7qWMWD1jGg?tags=CH_LOGO" group-title="NACIONALES Y NOTICIAS", CANAL 26
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fa1f24d10cab285af45027c1cb715341:98ead84e63cca910bde3ea314f8a14a9
-http://45.226.28.9:8085/Live/7697d5530908ed3b1e7e434de6335163/local-c26.playlist.m3u8
+http://starlatino.tv:8880/live/Sergioiptv2026/PWayqvCEJaj8/490438.ts
 
 #EXTINF:-1 tvg-id="Ar12.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/LhJYx1DbJmE9D4tKJOZaOg?tags=CH_LOGO" group-title="NACIONALES Y NOTICIAS", AR12
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -216,12 +216,12 @@ http://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd?|referer=https://pl
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_EASTLATAM2
-https://vcdn.mn10.entel.bo:443/Content/DASH/Live/Channel(62567d5c-295c-4ffd-ac7e-c9749e874884)/manifest.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+http://starlatino.tv:8880/live/Sergioiptv2026/PWayqvCEJaj8/327915.ts
 
 #EXTINF:-1   tvg-id="Espn3.ar"    tvg-logo="https://i.ibb.co/TLcGvdv/espn-3B.png" group-title="Deportes",ESPN 3 EAST
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_EASTLATAM3
-https://vcdn.mn10.entel.bo:443/Content/DASH/Live/Channel(a38d1401-ee01-4802-812a-7cb460c9832c)/manifest.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36
+http://starlatino.tv:8880/live/Sergioiptv2026/PWayqvCEJaj8/327916.ts
 
 #EXTINF:-1 tvg-id="Espn4.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/jGyt-p8MW55TcZMkzRBHLw?tags=CH_LOGO" group-title="DEPORTES", ESPN 4
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -888,8 +888,25 @@ http://cdn.sensa.com.ar/live/eds/Entertaiment/live_dash_cld/Entertaiment.mpd?|re
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4606.129 Safari/537.36 HxxTV/2.5 (DSG;LG/ESTCV)
 http://cdn.sensa.com.ar/live/eds/SUN/live_dash_cld/SUN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-id="CHAPULIN COLORADO" tvg-logo="",CHAPULIN COLORADO
+#EXTINF:-1 tvg-id="CHAPULIN COLORADO 3" tvg-logo="",CHAPULIN COLORADO 3
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/152.m3u8
+
+#EXTINF:-1 tvg-id="CHAPULIN COLORADO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/500px-El_Chapul%C3%ADn_Colorado_logo.svg.png",CHAPULIN COLORADO
+http://starlatino.tv:8880/live/Sergioiptv2026/PWayqvCEJaj8/526504.ts
+
+#EXTINF:-1 tvg-id="CHAPULIN COLORADO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/500px-El_Chapul%C3%ADn_Colorado_logo.svg.png",CHAPULIN COLORADO 2
+http://starlatino.tv:8880/live/Sergioiptv2026/PWayqvCEJaj8/526505.ts
+
+#EXTINF:-1 tvg-id="VAN DAMME 24/7" tvg-logo="https://hips.hearstapps.com/hmg-prod/images/hlh070121feajeanclaudevandamme-001-1626818096.png?resize=640:*",VAN DAMME 24/7
+http://starlatino.tv:8880/live/Sergioiptv2026/PWayqvCEJaj8/526451.ts
+
+#EXTINF:-1 tvg-id="ROCKY 24/7" tvg-logo="https://e7.pngegg.com/pngimages/595/729/png-clipart-sylvester-stallone-sylvester-stallone-rocky-at-the-movies-sylvester-stallone-thumbnail.png",ROCKY 24/7
+http://starlatino.tv:8880/live/Sergioiptv2026/PWayqvCEJaj8/526420.ts
+
+
+#EXTINF:-1 tvg-id="SIMPSONS" tvg-logo="https://i.pinimg.com/736x/c0/fb/47/c0fb47470b269dc2023e50bf1f5b9cdc.jpg",LOS SIMPSONS
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/635.m3u8
+
 
 #EXTINF:-1 tvg-chno="1230" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/ASPEN.png?raw=true" group-title="Música y Radios", Aspen (FM 102.3)
 https://playerservices.streamtheworld.com/api/livestream-redirect/ASPEN
