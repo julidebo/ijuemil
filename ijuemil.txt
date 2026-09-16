@@ -915,8 +915,11 @@ http://starlatino.tv:8880/live/Sergioiptv2026/PWayqvCEJaj8/526505.ts
 #EXTINF:-1 tvg-id="VAN DAMME 24/7" tvg-logo="https://hips.hearstapps.com/hmg-prod/images/hlh070121feajeanclaudevandamme-001-1626818096.png?resize=640:*",VAN DAMME 24/7
 http://starlatino.tv:8880/live/Sergioiptv2026/PWayqvCEJaj8/526451.ts
 
+#EXTINF:-1 tvg-id="ROCKY 24/7" tvg-logo="https://e7.pngegg.com/pngimages/595/729/png-clipart-sylvester-stallone-sylvester-stallone-rocky-at-the-movies-sylvester-stallone-thumbnail.png",ROCKY 24/7
+http://starlatino.tv:8880/live/Sergioiptv2026/PWayqvCEJaj8/526420.ts
 
-#EXTINF:-1 tvg-id="SIMPSONS" tvg-logo="",LOS SIMPSONS
+
+#EXTINF:-1 tvg-id="SIMPSONS" tvg-logo="https://i.pinimg.com/736x/c0/fb/47/c0fb47470b269dc2023e50bf1f5b9cdc.jpg",LOS SIMPSONS
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/635.m3u8
 
 
