@@ -907,10 +907,10 @@ https://edge-live14-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ
 https://edge-live14-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzg5NTkxMTMxIiwic2lwIjoiMTkwLjE4My4xNzQuMTgiLCJwYXRoIjoiLyIsInNlc3Npb25fY2RuX2lkIjoiN2I1MDFlZjU2YWY4NDE5OSIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIxOTYiLCJzb3VyY2VzIjpbODhdfQ==.SNh7UTJq0IvnKLEDFBXOtyk1tXIC31ggV0DYiVH6V0dFaJMOuuV15_oGbJzOw-8pcE7a0D5u6thymOI31EjLdg==/live/c6eds/MTV_HD/SA_Live_dash_enc/MTV_HD.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
 #EXTINF:-1 tvg-id="CHAPULIN COLORADO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/500px-El_Chapul%C3%ADn_Colorado_logo.svg.png",CHAPULIN COLORADO
-http://avefenixtv.com:80/live/JoseArriaga/Jose08Sept25/783520.ts
+http://starlatino.tv:8880/live/Sergioiptv2026/PWayqvCEJaj8/526504.ts
 
 #EXTINF:-1 tvg-id="CHAPULIN COLORADO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/500px-El_Chapul%C3%ADn_Colorado_logo.svg.png",CHAPULIN COLORADO 2
-http://digitaltv.pro:2082/live/Richard688/nvrZqLSAhb/646199.ts
+http://starlatino.tv:8880/live/Sergioiptv2026/PWayqvCEJaj8/526505.ts
 
 #EXTINF:-1 tvg-id="SIMPSONS" tvg-logo="",LOS SIMPSONS
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/635.m3u8
