@@ -212,13 +212,12 @@ http://cdn.sensa.com.ar/live/eds/TYCSports/live_dash_cld/TYCSports.mpd?|referer=
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4606.129 Safari/537.36
 http://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1  tvg-id="Espn2.ar"   tvg-logo="https://i.ibb.co/RCMYFsv/espn-2B.png",ESPN 2 EAST
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1  tvg-id="Espn2.ar"   tvg-logo="https://i.ibb.co/RCMYFsv/espn-2B.png",ESPN 2 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_EASTLATAM2
 http://starlatino.tv:8880/live/Sergioiptv2026/PWayqvCEJaj8/327915.ts
 
-#EXTINF:-1   tvg-id="Espn3.ar"    tvg-logo="https://i.ibb.co/TLcGvdv/espn-3B.png" group-title="Deportes",ESPN 3 EAST
+#EXTINF:-1   tvg-id="Espn3.ar"    tvg-logo="https://i.ibb.co/TLcGvdv/espn-3B.png" group-title="Deportes",ESPN 3 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_EASTLATAM3
 http://starlatino.tv:8880/live/Sergioiptv2026/PWayqvCEJaj8/327916.ts
