@@ -250,12 +250,12 @@ http://cdn.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd?|refere
 #EXTINF:-1 tvg-id="FoxSports2.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/8lNQixZEsN3Eadq_eLSVqg?tags=CH_LOGO" group-title="DEPORTES", FOX SPORTS 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=922eaebf57397ebf2656cbf71ae4775f:3014cf17de69d8f916a83cbf6b4aec94
-http://45.226.28.9:8085/Live/3b21a8bc113ebdbe55181de237dc1113/local-foxsport2.playlist.m3u8
+http://31.43.191.125:8080/live/vip3621769094688/c60cf533a9aa/4765.ts
 
 #EXTINF:-1 tvg-id="FoxSports3.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/aAian9WeLoU0vTudB9xL2g?tags=CH_LOGO" group-title="DEPORTES", FOX SPORTS 3 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee0ff8714c8f96a448eae5c9b796c889:d7c1e6b0d11ba5051096bb34779c6efb
-http://45.226.28.9:8085/Live/3b21a8bc113ebdbe55181de237dc1113/local-foxsport3.playlist.m3u8
+http://31.43.191.125:8080/live/vip3621769094688/c60cf533a9aa/4766.ts
 
 #EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/qKmbSnB9ypnxgr-DsMOfww?tags=CH_LOGO" group-title="DEPORTES", TNT SPORTS
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
