@@ -707,7 +707,7 @@ http://cdn.sensa.com.ar/live/eds/Space/live_dash_cld/Space.mpd?|referer=https://
 #EXTINF:-1 tvg-id="TNT.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/HOsbHOrwv4b-eMrGQHgLLw?tags=CH_LOGO" group-title="CINE Y SERIES", TNT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d20d587dfb19ca3e1cccfabb52c03086:0634a6083a88ea08eea626d773d72956
-http://45.226.28.9:8085/Live/7697d5530908ed3b1e7e434de6335163/local-tnt.playlist.m3u8
+http://manuastra.dtv21.org:2400/play/a1oy/index.m3u8
 
 #EXTINF:-1 tvg-id="StudioUniversal.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/wbidhpzmabaDfMcZTc-Wgg?tags=CH_LOGO" group-title="CINE Y SERIES", STUDIO UNIVERSAL
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -728,7 +728,7 @@ http://cdn.sensa.com.ar/live/eds/Universal/live_dash_cld/Universal.mpd?|referer=
 #EXTINF:-1 tvg-id="Warner.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/lEJaQrd2zxfbq4yG7GVGJw?tags=CH_LOGO" group-title="CINE Y SERIES", WARNER
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b95853b6afe7627118414c04c0827fb:e1f7e63cc427933f9c9fa01985a25521
-http://45.226.28.9:8085/Live/3b21a8bc113ebdbe55181de237dc1113/local-warner.playlist.m3u8
+http://manuastra.dtv21.org:2400/play/a1p3/index.m3u8
 
 #EXTINF:-1 tvg-id="USA.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/PDBE9vBHXQYBlgCLtcVpIw?tags=CH_LOGO" group-title="CINE Y SERIES", USA NETWORK
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
