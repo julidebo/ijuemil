@@ -185,7 +185,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nzl2d4ffbw/
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hoo4ddqavw/out/v1/dadfb43b8a714e4f9288026b5c3351a0/cenc.mpd|User-Agent=AivAndroidPlayer/1.0 (AndroidDevice)&Referer=https://www.primevideo.com/
 
 #EXTINF:-1 tvg-id="1148" tvg-logo="http://i.tvcluboficial.com/dazn.png" group-title="Deportes",DAZN F1 HD
-http://45.134.141.161:2200/ARG/DAZN_1_HD/index.m3u8
+http://zeustv.vip:8080/live/cadg13vp/98465464/1175622.ts
 
 
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/XMlPUQ7mIvaDO707-0z5MQ?tags=CH_LOGO" group-title="DEPORTES", DEPORTV
@@ -887,13 +887,13 @@ http://cdn.sensa.com.ar/live/eds/Entertaiment/live_dash_cld/Entertaiment.mpd?|re
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4606.129 Safari/537.36 HxxTV/2.5 (DSG;LG/ESTCV)
 http://cdn.sensa.com.ar/live/eds/SUN/live_dash_cld/SUN.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
-#EXTINF:-1 tvg-id="CHAPULIN COLORADO 3" tvg-logo="",CHAPULIN COLORADO 3
+#EXTINF:-1 tvg-id="CHAPULIN COLORADO" tvg-logo="",CHAPULIN COLORADO
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/152.m3u8
 
-#EXTINF:-1 tvg-id="CHAPULIN COLORADO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/500px-El_Chapul%C3%ADn_Colorado_logo.svg.png",CHAPULIN COLORADO
+#EXTINF:-1 tvg-id="CHAPULIN COLORADO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/500px-El_Chapul%C3%ADn_Colorado_logo.svg.png",CHAPULIN COLORADO 2
 http://starlatino.tv:8880/live/Sergioiptv2026/PWayqvCEJaj8/526504.ts
 
-#EXTINF:-1 tvg-id="CHAPULIN COLORADO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/500px-El_Chapul%C3%ADn_Colorado_logo.svg.png",CHAPULIN COLORADO 2
+#EXTINF:-1 tvg-id="CHAPULIN COLORADO 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/500px-El_Chapul%C3%ADn_Colorado_logo.svg.png",CHAPULIN COLORADO 3
 http://starlatino.tv:8880/live/Sergioiptv2026/PWayqvCEJaj8/526505.ts
 
 #EXTINF:-1 tvg-id="VAN DAMME 24/7" tvg-logo="https://hips.hearstapps.com/hmg-prod/images/hlh070121feajeanclaudevandamme-001-1626818096.png?resize=640:*",VAN DAMME 24/7
@@ -901,6 +901,12 @@ http://starlatino.tv:8880/live/Sergioiptv2026/PWayqvCEJaj8/526451.ts
 
 #EXTINF:-1 tvg-id="ROCKY 24/7" tvg-logo="https://e7.pngegg.com/pngimages/595/729/png-clipart-sylvester-stallone-sylvester-stallone-rocky-at-the-movies-sylvester-stallone-thumbnail.png",ROCKY 24/7
 http://starlatino.tv:8880/live/Sergioiptv2026/PWayqvCEJaj8/526420.ts
+
+#EXTINF:-1 tvg-id="PESADILLA EN LA CALLE ELM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFvasafKnum38xD3g0EXY9jDU_3snliew6RE5ZwcCBpw&s=10",PESADILLA 24/7
+http://starlatino.tv:8880/live/Sergioiptv2026/PWayqvCEJaj8/526401.ts
+
+#EXTINF:-1 tvg-id="CHUCKY 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFwiCI4uerLEmGyU2Lyg0u4b1xtcDLNUGwq6YwLIyuvw&s", CHUCKY 24/7
+http://starlatino.tv:8880/live/Sergioiptv2026/PWayqvCEJaj8/526370.ts
 
 
 #EXTINF:-1 tvg-id="SIMPSONS" tvg-logo="https://i.pinimg.com/736x/c0/fb/47/c0fb47470b269dc2023e50bf1f5b9cdc.jpg",LOS SIMPSONS
