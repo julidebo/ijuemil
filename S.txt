@@ -707,7 +707,7 @@ http://cdn.sensa.com.ar/live/eds/Space/live_dash_cld/Space.mpd?|referer=https://
 #EXTINF:-1 tvg-id="TNT.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/HOsbHOrwv4b-eMrGQHgLLw?tags=CH_LOGO" group-title="CINE Y SERIES", TNT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d20d587dfb19ca3e1cccfabb52c03086:0634a6083a88ea08eea626d773d72956
-http://45.134.141.161:2200/ARG/TNT/index.m3u8
+http://181.209.105.115:2525/play/tnt/index.m3u8
 
 #EXTINF:-1 tvg-id="StudioUniversal.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/wbidhpzmabaDfMcZTc-Wgg?tags=CH_LOGO" group-title="CINE Y SERIES", STUDIO UNIVERSAL
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
