@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/argentina.xml.gz,https://github.com/RulexURY/epg/raw/refs/heads/main/epg/github.xml.gz,https://raw.githubusercontent.com/mudstein/XML-EPG-LAT/refs/heads/master/AR.xml,https://www.open-epg.com/files/uruguay2.xml,https://www.open-epg.com/files/argentina.xml,https://www.open-epg.com/files/argentina4.xml"
+#EXTM3U url-tvg="https://www.open-epg.com/files/uruguay2.xml.gz,https://www.open-epg.com/files/argentina.xml.gz,https://github.com/RulexURY/epg/raw/refs/heads/main/epg/github.xml.gz,https://www.open-epg.com/files/uruguay2.xml,https://www.open-epg.com/files/argentina.xml,https://www.open-epg.com/files/argentina4.xml,https://www.open-epg.com/generate/NwtqGHYvwk.xml,https://stratusnex.env.pm/live/epgzip.xml" x-generator="https://stratusnex.com.ar"
  
 Nacional
  
@@ -163,7 +163,7 @@ https://prope79d3g55.airspace-cdn.cbsivideo.com/out/v1/faa5cf8cb19e4de99417df05a
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hoo4ddqavw/out/v1/dadfb43b8a714e4f9288026b5c3351a0/cenc.mpd|User-Agent=AivAndroidPlayer/1.0 (AndroidDevice)&Referer=https://www.primevideo.com/
 
 #EXTINF:-1 tvg-id="1148" tvg-logo="http://i.tvcluboficial.com/dazn.png" group-title="Deportes",DAZN F1 HD
-http://45.134.141.161:2200/ARG/DAZN_1_HD/index.m3u8
+http://zeustv.vip:8080/live/cadg13vp/98465464/1175622.ts
 
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/48/CH_LOGO/160/160/0/0/13868550072195.png" group-title="Deportes",DeporTV 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -858,7 +858,6 @@ https://edge-live17-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ
 https://edge-live17-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkwMjg4ODI1Iiwic2lwIjoiMTkwLjEwMy4xNzYuNDYiLCJwYXRoIjoiLyIsInNlc3Npb25fY2RuX2lkIjoiNTlmOTMxOWY0ZTU2OWM1YyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMjIiLCJhdWQiOiIxMDYiLCJzb3VyY2VzIjpbODhdfQ==.GRj-R7CMlhLJ4lEq6qhTiiJwmP4ds30ljgigXh_Wx5xVhVFe73or6Y2JnG_sAjWFeZ6THDOQ1N-vMA7Y9xwspg==/live/c6eds/History_2/SA_Live_dash_enc/History_2.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
 
-
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=73735c1740464c99cca3ffb450c15811:b9241d083c902fa615e4f780081ae926
 #EXTINF:-1 ch-number="420" tvg-id="National Geographic.ar" tvg-logo="https://i.postimg.cc/wjNBCV7y/Logo_1.png" group-title="Documentales", Nat Geo
@@ -910,11 +909,21 @@ http://starlatino.tv:8880/live/Sergioiptv2026/PWayqvCEJaj8/526504.ts
 #EXTINF:-1 tvg-id="CHAPULIN COLORADO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/500px-El_Chapul%C3%ADn_Colorado_logo.svg.png",CHAPULIN COLORADO 2
 http://starlatino.tv:8880/live/Sergioiptv2026/PWayqvCEJaj8/526505.ts
 
+#EXTINF:-1 tvg-id="CHAPULIN COLORADO 3" tvg-logo="",CHAPULIN COLORADO 3
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/152.m3u8
+
+
 #EXTINF:-1 tvg-id="VAN DAMME 24/7" tvg-logo="https://hips.hearstapps.com/hmg-prod/images/hlh070121feajeanclaudevandamme-001-1626818096.png?resize=640:*",VAN DAMME 24/7
 http://starlatino.tv:8880/live/Sergioiptv2026/PWayqvCEJaj8/526451.ts
 
 #EXTINF:-1 tvg-id="ROCKY 24/7" tvg-logo="https://e7.pngegg.com/pngimages/595/729/png-clipart-sylvester-stallone-sylvester-stallone-rocky-at-the-movies-sylvester-stallone-thumbnail.png",ROCKY 24/7
 http://starlatino.tv:8880/live/Sergioiptv2026/PWayqvCEJaj8/526420.ts
+
+#EXTINF:-1 tvg-id="PESADILLA EN LA CALLE ELM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFvasafKnum38xD3g0EXY9jDU_3snliew6RE5ZwcCBpw&s=10",PESADILLA 24/7
+http://starlatino.tv:8880/live/Sergioiptv2026/PWayqvCEJaj8/526401.ts
+
+#EXTINF:-1 tvg-id="CHUCKY 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFwiCI4uerLEmGyU2Lyg0u4b1xtcDLNUGwq6YwLIyuvw&s", CHUCKY 24/7
+http://starlatino.tv:8880/live/Sergioiptv2026/PWayqvCEJaj8/526370.ts
 
 
 #EXTINF:-1 tvg-id="SIMPSONS" tvg-logo="https://i.pinimg.com/736x/c0/fb/47/c0fb47470b269dc2023e50bf1f5b9cdc.jpg",LOS SIMPSONS
