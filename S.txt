@@ -19,10 +19,11 @@ http://45.70.221.206/LN_OTT/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=0456fd8f8b0989541a74ce1c047478f7:355c7ddf365a8854874783e28ac5b659
 http://45.134.141.161:2200/ARG/C5N/index.m3u8
 
-#EXTINF:-1 tvg-id="Canal26.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/u5NM8LAogdMb7qWMWD1jGg?tags=CH_LOGO" group-title="NACIONALES Y NOTICIAS", CANAL 26
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fa1f24d10cab285af45027c1cb715341:98ead84e63cca910bde3ea314f8a14a9
-http://45.70.221.206/CANAL26_OTT/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal26.ar" group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="12" tvg-name="Canal 26" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196617" group-title="ONPOWER TV VPN ðŸ‡¦ðŸ‡·", Canal 26
+#EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
+#EXTVLCOPT:http-origin=https://tv.onpower.com.ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://cyberuno.cdn.rcs.net.ar/mnp/canal26/output.mpd
 
 #EXTINF:-1 tvg-id="Ar12.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/LhJYx1DbJmE9D4tKJOZaOg?tags=CH_LOGO" group-title="NACIONALES Y NOTICIAS", AR12
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -112,13 +113,11 @@ http://cdn.sensa.com.ar/live/eds/Canal13/live_dash_cld/Canal13.mpd?|referer=http
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4606.129 Safari/537.36 HxxTV/2.5 (DSG;LG/ESTCV)
 http://cdn.sensa.com.ar/bpk-tv/Multivision/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0 
 
-#EXTINF:-1 tvg-id="T5Satelital.ar" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/T5SAT.png?raw=true" group-title="NACIONALES Y NOTICIAS", T5 Satelital
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=0c7cb1ff69ab931bc2348f2e00381544:e89139fc667b4e306f1accb3db40a584
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.ctcplus.com.ar/
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4606.129 Safari/537.36 HxxTV/2.5 (DSG;LG/ESTCV)
-http://cdn.sensa.com.ar/bpk-tv/T5Satelital/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+#EXTINF:-1 group-logo="https://tv.onpower.com.ar/onpower-logo-w300.99c98b422e1245397872.png",tvg-id="180" tvg-name="Telesur" tvg-logo="https://weiss.mc.rocstar.tv/sb/image/196640" group-title="ONPOWER TV VPN ðŸ‡¦ðŸ‡·", Telesur
+#EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
+#EXTVLCOPT:http-origin=https://tv.onpower.com.ar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+https://cyberuno.cdn.rcs.net.ar/mnp/telesurtda/output.mpd
 
 #EXTINF:-1 tvg-id="NetTV.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/GOJrLfHABd8X-fMCDhVDKw?tags=CH_LOGO" group-title="NACIONALES Y NOTICIAS", NET TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
