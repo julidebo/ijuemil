@@ -23,7 +23,7 @@ http://45.134.141.161:2200/ARG/C5N/index.m3u8
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://cyberuno.cdn.rcs.net.ar/mnp/canal26/output.mpd
+http://181.209.91.106:2222/Live/18e292ea93b66c65c76707f07c489d61/c26.playlist.m3u8
 
 #EXTINF:-1 tvg-id="Ar12.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/LhJYx1DbJmE9D4tKJOZaOg?tags=CH_LOGO" group-title="NACIONALES Y NOTICIAS", AR12
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -184,7 +184,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nzl2d4ffbw/
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hoo4ddqavw/out/v1/dadfb43b8a714e4f9288026b5c3351a0/cenc.mpd|User-Agent=AivAndroidPlayer/1.0 (AndroidDevice)&Referer=https://www.primevideo.com/
 
 #EXTINF:-1 tvg-id="1148" tvg-logo="http://i.tvcluboficial.com/dazn.png" group-title="Deportes",DAZN F1 HD
-http://zeustv.vip:8080/live/cadg13vp/98465464/1175622.ts
+http://45.134.141.161:2200/ARG/Formula_1_HD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/XMlPUQ7mIvaDO707-0z5MQ?tags=CH_LOGO" group-title="DEPORTES", DEPORTV
@@ -214,12 +214,12 @@ http://cdn.sensa.com.ar/live/eds/ESPN/live_dash_cld/ESPN.mpd?|referer=https://pl
 #EXTINF:-1  tvg-id="Espn2.ar"   tvg-logo="https://i.ibb.co/RCMYFsv/espn-2B.png",ESPN 2 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_EASTLATAM2
-https://cyberuno.cdn.rcs.net.ar/mnp/sJDmPFpTWBNS2gZhzj8ydHU7tR9Y6uf4k/output.mpd
+http://181.209.80.115:8000/play/espn_2_hd
 
 #EXTINF:-1   tvg-id="Espn3.ar"    tvg-logo="https://i.ibb.co/TLcGvdv/espn-3B.png" group-title="Deportes",ESPN 3 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://pqlbatyoaawbhfyldlpw.supabase.co/functions/v1/ESPN_EASTLATAM3
-https://cyberuno.cdn.rcs.net.ar/mnp/QVsZxnupYwKdAtb5Dk3zvFXBMGqcWgmfR/output.mpd
+http://181.209.80.115:8000/play/espn_3_hd
 
 #EXTINF:-1 tvg-id="Espn4.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/jGyt-p8MW55TcZMkzRBHLw?tags=CH_LOGO" group-title="DEPORTES", ESPN 4
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -727,7 +727,7 @@ http://cdn.sensa.com.ar/live/eds/Universal/live_dash_cld/Universal.mpd?|referer=
 #EXTINF:-1 tvg-id="Warner.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/lEJaQrd2zxfbq4yG7GVGJw?tags=CH_LOGO" group-title="CINE Y SERIES", WARNER
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7b95853b6afe7627118414c04c0827fb:e1f7e63cc427933f9c9fa01985a25521
-https://cyberuno.cdn.rcs.net.ar/mnp/warner/output.mpd
+http://181.209.80.115:8000/play/warner_channel_hd
 
 #EXTINF:-1 tvg-id="USA.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/PDBE9vBHXQYBlgCLtcVpIw?tags=CH_LOGO" group-title="CINE Y SERIES", USA NETWORK
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
