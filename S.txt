@@ -117,7 +117,7 @@ http://cdn.sensa.com.ar/bpk-tv/Multivision/default/index.mpd?|referer=https://pl
 #EXTVLCOPT:http-referrer=https://tv.onpower.com.ar/
 #EXTVLCOPT:http-origin=https://tv.onpower.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
-https://cyberuno.cdn.rcs.net.ar/mnp/telesurtda/output.mpd
+https://mblesmain01.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NetTV.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/GOJrLfHABd8X-fMCDhVDKw?tags=CH_LOGO" group-title="NACIONALES Y NOTICIAS", NET TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -248,12 +248,12 @@ http://cdn.sensa.com.ar/live/eds/FoxSports1/live_dash_cld/FoxSports1.mpd?|refere
 #EXTINF:-1 tvg-id="FoxSports2.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/8lNQixZEsN3Eadq_eLSVqg?tags=CH_LOGO" group-title="DEPORTES", FOX SPORTS 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=922eaebf57397ebf2656cbf71ae4775f:3014cf17de69d8f916a83cbf6b4aec94
-http://181.209.105.115:2525/play/foxsports2/index.m3u8
+http://181.209.80.115:8000/play/fox_sports_2_hd
 
 #EXTINF:-1 tvg-id="FoxSports3.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/aAian9WeLoU0vTudB9xL2g?tags=CH_LOGO" group-title="DEPORTES", FOX SPORTS 3 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ee0ff8714c8f96a448eae5c9b796c889:d7c1e6b0d11ba5051096bb34779c6efb
-http://181.209.105.115:2525/play/foxsports3/index.m3u8
+http://181.209.80.115:8000/play/fox_sports_3_hd
 
 #EXTINF:-1 tvg-id="TNTSportsPremium.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/qKmbSnB9ypnxgr-DsMOfww?tags=CH_LOGO" group-title="DEPORTES", TNT SPORTS
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -690,7 +690,7 @@ http://cdn.sensa.com.ar/live/eds/Sony/live_dash_cld/Sony.mpd?|referer=https://pl
 #EXTINF:-1 tvg-id="SonyMovies.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/l-K8FTzmm6nWaWLWuzdxkA?tags=CH_LOGO" group-title="CINE Y SERIES",SONY MOVIES
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0c2e21b1fb3475e3dcfa43f3aebf90c0:3f90991c8bea986cb976baa8bc958c94
-http://181.209.105.115:2525/play/sonymovies/index.m3u8
+http://181.209.80.115:8000/play/sony_movies_hd
 
 #EXTINF:-1 tvg-id="Sony Cine" tvg-name="Sony Cine" tvg-logo="https://i.ibb.co/6J4YdHPJ/Sony-Cine-2021-Logo.webp" group-title="Cine y Series", Sony Cine
 http://liketv.pro:80/live/verocabrera/verocabrera/17633.m3u8
@@ -706,7 +706,7 @@ http://cdn.sensa.com.ar/live/eds/Space/live_dash_cld/Space.mpd?|referer=https://
 #EXTINF:-1 tvg-id="TNT.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/HOsbHOrwv4b-eMrGQHgLLw?tags=CH_LOGO" group-title="CINE Y SERIES", TNT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d20d587dfb19ca3e1cccfabb52c03086:0634a6083a88ea08eea626d773d72956
-http://181.209.105.115:2525/play/tnt/index.m3u8
+http://181.209.80.115:8000/play/tnt_hd
 
 #EXTINF:-1 tvg-id="StudioUniversal.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/wbidhpzmabaDfMcZTc-Wgg?tags=CH_LOGO" group-title="CINE Y SERIES", STUDIO UNIVERSAL
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
