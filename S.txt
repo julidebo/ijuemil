@@ -30,8 +30,8 @@ http://181.209.91.106:2222/Live/18e292ea93b66c65c76707f07c489d61/c26.playlist.m3
 #KODIPROP:inputstream.adaptive.license_key=61635507689b4c74568928cc0f5d82d9:34f254be5f3d6a8ab44c28b4cb2e5a4a
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://player.sensa.com.ar
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4606.129 Safari/537.36
-http://cdn.sensa.com.ar/bpk-tv/Argentina12/default/index.mpd?|referer=https://player.ctcplus.com.ar/&webtoken=1.0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4606.129 Safari/537.36 HxxTV/2.5 (DSG;LG/ESTCV)
+http://cdn.sensa.com.ar/bpk-tv/Argentina12/default/index.mpd?|referer=https://player.ctcplus.com.ar
 
 #EXTINF:-1 tvg-id="TN.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/tsozQzIAVMhh2R8LYB3Zdg?tags=CH_LOGO" group-title="NACIONALES Y NOTICIAS", TN
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -235,6 +235,8 @@ http://cdn.sensa.com.ar/live/eds/ESPN4/live_dash_cld/ESPN4.mpd?|referer=https://
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4606.129 Safari/537.36 HxxTV/2.5 (DSG;LG/ESTCV)
+https://cdn.sensa.com.ar/bpk-tv/ESPNPremium/default/index.mpd
+
 http://cdn.sensa.com.ar/live/eds/ESPNPremium/live_dash_cld/ESPNPremium.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
 
 #EXTINF:-1 tvg-id="FoxSports.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/HAq2thFBSFQ6BPwjbeV3mw?tags=CH_LOGO" group-title="DEPORTES", FOX SPORTS
