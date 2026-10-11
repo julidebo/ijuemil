@@ -25,6 +25,14 @@ http://45.134.141.161:2200/ARG/C5N/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
 http://181.209.91.106:2222/Live/18e292ea93b66c65c76707f07c489d61/c26.playlist.m3u8
 
+#EXTINF:-1 tvg-id="Dnews" tvg-name="Dnews" tvg-logo="https://yt3.googleusercontent.com/1j9Q64SuG-vANdJ91r4l-Uuy0fq93erXtVjt77Yh3SARvKhdIg4MyeFKFRWaHhSyHwRDxsb-Sw=s900-c-k-c0x00ffffff-no-rj" group-title="DIGITAL" ch-number="6" type="channel" video-track="2",Dnews
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://player.sensa.com.ar/&webtoken=1.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://oikoapp.xyz/owner/results.php?key=172bb2b8fa089d9d7f6d6a1b956682c9&keyid=b5ba5c05d3eb98bb2d26ff885ac3cacc
+https://cdn.sensa.com.ar/live/sta01/Dnews/live_dash_cld/Dnews.mpd
+
+
 #EXTINF:-1 tvg-id="Ar12.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/LhJYx1DbJmE9D4tKJOZaOg?tags=CH_LOGO" group-title="NACIONALES Y NOTICIAS", AR12
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=61635507689b4c74568928cc0f5d82d9:34f254be5f3d6a8ab44c28b4cb2e5a4a
