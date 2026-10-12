@@ -921,11 +921,8 @@ http://starlatino.tv:8880/live/Sergioiptv2026/PWayqvCEJaj8/526505.ts
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/152.m3u8
 
 
-#EXTINF:-1 tvg-id="VAN DAMME 24/7" tvg-logo="https://hips.hearstapps.com/hmg-prod/images/hlh070121feajeanclaudevandamme-001-1626818096.png?resize=640:*",VAN DAMME 24/7
-http://starlatino.tv:8880/live/Sergioiptv2026/PWayqvCEJaj8/526451.ts
-
 #EXTINF:-1 tvg-id="ROCKY 24/7" tvg-logo="https://e7.pngegg.com/pngimages/595/729/png-clipart-sylvester-stallone-sylvester-stallone-rocky-at-the-movies-sylvester-stallone-thumbnail.png",ROCKY 24/7
-http://starlatino.tv:8880/live/Sergioiptv2026/PWayqvCEJaj8/526420.ts
+http://deluxe-tv.vip:80/live/T3FAeRAjQBHQ/DfzFbxY7QgUe/1323247.ts
 
 #EXTINF:-1 tvg-id="PESADILLA EN LA CALLE ELM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFvasafKnum38xD3g0EXY9jDU_3snliew6RE5ZwcCBpw&s=10",PESADILLA 24/7
 http://starlatino.tv:8880/live/Sergioiptv2026/PWayqvCEJaj8/526401.ts
