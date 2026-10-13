@@ -932,7 +932,7 @@ http://starlatino.tv:8880/live/Sergioiptv2026/PWayqvCEJaj8/526370.ts
 
 
 #EXTINF:-1 tvg-id="SIMPSONS" tvg-logo="https://i.pinimg.com/736x/c0/fb/47/c0fb47470b269dc2023e50bf1f5b9cdc.jpg",LOS SIMPSONS
-https://stream-cdn-iad3.vaughnsoft.net/play/live_simpson_maniahd193.flv
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/635.m3u8
 
 #EXTINF:-1 tvg-id="SIMPSONS TEMP 1/5" tvg-logo="https://i.pinimg.com/736x/c0/fb/47/c0fb47470b269dc2023e50bf1f5b9cdc.jpg",LOS SIMPSONS TEMP 1/5
 http://srv3.zcast.com.br/sim1al5/sim1al5/playlist.m3u8
