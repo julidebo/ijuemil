@@ -539,7 +539,7 @@ https://edge-live11-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4606.129 Safari/537.36 HxxTV/2.5 (DSG;LG/ESTCV)
-http://cdn.sensa.com.ar/live/eds/GoldenEdge/live_dash_cld/GoldenEdge.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+http://hispasat71w.duckdns.org:8888/55/index.m3u8?token=ott
 
 #EXTINF:-1 tvg-name="GOLDEN PLUS" tvg-logo="https://i.ibb.co/NyNYXrx/golden-plus.png" group-title="Cine + Series",Golden Plus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -782,7 +782,7 @@ http://cdn.sensa.com.ar/bpk-tv/LoveNature/default/index.mpd?|referer=https://pla
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4606.129 Safari/537.36 HxxTV/2.5 (DSG;LG/ESTCV)
-http://hispasat71w.duckdns.org:80/live/68CA17B5953BE0EDA52BFE88FFE1EC23/162.m3u8
+http://hispasat71w.duckdns.org:8888/106/index.m3u8?token=ott
 
 #EXTINF:-1 tvg-id="Animal Planet.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHanimalplanet.png" group-title="Novelas + Variedades",Animal Planet 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -912,7 +912,7 @@ https://edge-live11-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ
 https://edge-live11-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzkyMzE4OTU3Iiwic2lwIjoiMjAxLjIxNi4yMTkuMzciLCJwYXRoIjoiLyIsInNlc3Npb25fY2RuX2lkIjoiNWM2NTY1ZGMxOWRiZmRjMyIsInNlc3Npb25faWQiOiIiLCJjbGllbnRfaWQiOiIiLCJkZXZpY2VfaWQiOiIiLCJtYXhfc2Vzc2lvbnMiOjAsInNlc3Npb25fZHVyYXRpb24iOjAsInVybCI6Imh0dHBzOi8vMjAxLjIzNS42Ni4xMTUiLCJhdWQiOiI2MiIsInNvdXJjZXMiOls4OF19.chjwYBNYhrYhjV9THTqEA8klVF7xPgcWoKMGTTabsGWsxNqfbBCwQJjHNyDHl9v0XYfG0u8uFA4hX6ODM1B5KQ==/live/c6eds/MTV_HD/SA_Live_dash_enc/MTV_HD.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
 #EXTINF:-1 tvg-id="CHAPULIN COLORADO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/500px-El_Chapul%C3%ADn_Colorado_logo.svg.png",CHAPULIN COLORADO
-http://starlatino.tv:8880/live/Sergioiptv2026/PWayqvCEJaj8/526504.ts
+http://nestortv.vip:80/live/ZdPdr062024/3suu3spFc8/783520.ts
 
 #EXTINF:-1 tvg-id="CHAPULIN COLORADO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/500px-El_Chapul%C3%ADn_Colorado_logo.svg.png",CHAPULIN COLORADO 2
 http://starlatino.tv:8880/live/Sergioiptv2026/PWayqvCEJaj8/526505.ts
