@@ -774,7 +774,7 @@ Novelas + Variedades
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4606.129 Safari/537.36 HxxTV/2.5 (DSG;LG/ESTCV)
-http://cdn.sensa.com.ar/bpk-tv/LoveNature/default/index.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+http://190.108.83.69:8000/play/a085/index.m3u8
 
 #EXTINF:-1 ch-number="419" tvg-id="Love Nature en español.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1801/CH_LOGO/800/542/0/0/32909050074718.png" group-title="VARIEDADES", LOVE NATURE EN ESPAÑOL
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
