@@ -516,14 +516,8 @@ http://m3u.tvcluboficial.com/free/ReachBot/Kip/159.m3u8
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/184.m3u8
 
 #EXTINF:-1 tvg-id="+CINE TERROR" tvg-logo="https://e7.pngegg.com/pngimages/327/703/png-clipart-cinema-film-moveis-logo-film.png",+CINE TERROR
-http://m3u.tvcluboficial.com/free/ReachBot/Kip/181.m3u8
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/180.m3u8
 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=863ed7f26cf51850b9ed735545c788ce:789edf190d78baefb569e8ca09ac86c2
-#EXTINF:-1   tvg-logo="https://1000marcas.net/wp-content/uploads/2021/11/Starz-logo-.jpg" group-title="🇦🇷 FLOW"  ,STARZ CINEMA
-#KODIPROP:inputstream.adaptive.stream_headers=referer=https://portal.app.flow.com.ar
-#KODIPROP:inputstream.adaptive.stream_headers=origin=https://portal.app.flow.com.ar
-http://m3u.tvcluboficial.com/free/ReachBot/Kip/841.m3u8
 
 #EXTINF:-1 tvg-id="Golden.ar" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345548/waykhtjrltosfh3wiqkl.png" group-title="Cine + Series",Golden 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -539,7 +533,7 @@ https://edge-live01-hr.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4606.129 Safari/537.36 HxxTV/2.5 (DSG;LG/ESTCV)
-http://hispasat71w.duckdns.org:8888/55/index.m3u8?token=ott
+http://181.119.66.239:9102/play/a03i/index.m3u8
 
 #EXTINF:-1 tvg-name="GOLDEN PLUS" tvg-logo="https://i.ibb.co/NyNYXrx/golden-plus.png" group-title="Cine + Series",Golden Plus
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -774,7 +768,7 @@ Novelas + Variedades
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4606.129 Safari/537.36 HxxTV/2.5 (DSG;LG/ESTCV)
-http://190.108.83.69:8000/play/a085/index.m3u8
+http://38.210.3.64:8090/play/a0op/74276105.m3u8
 
 #EXTINF:-1 ch-number="419" tvg-id="Love Nature en español.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/1801/CH_LOGO/800/542/0/0/32909050074718.png" group-title="VARIEDADES", LOVE NATURE EN ESPAÑOL
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
