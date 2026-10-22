@@ -47,7 +47,7 @@ http://cdn.sensa.com.ar/bpk-tv/Argentina12/default/index.mpd?|referer=https://pl
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 HxxTV/2.5 (DSG;LG/ESTCV)
-http://cdn.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd?|referer=https://player.ctcplus.com.ar/&webtoken=1.0
+http://cdn.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd
 
 #EXTINF:-1 tvg-id="CronicaTV.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/SbhpLG6w5bpnevDhqf9b9w?tags=CH_LOGO" group-title="NACIONALES Y NOTICIAS", CRONICA TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -55,7 +55,7 @@ http://cdn.sensa.com.ar/live/eds/TN/live_dash_cld/TN.mpd?|referer=https://player
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 HxxTV/2.5 (DSG;LG/ESTCV)
-http://cdn.sensa.com.ar/live/eds/Cronica/live_dash_cld/Cronica.mpd?|referer=https://player.sensa.com.ar/&webtoken=1.0
+http://cdn.sensa.com.ar/live/eds/Cronica/live_dash_cld/Cronica.mpd
 
 #EXTINF:-1 tvg-id="CNN Español.uy" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/VjWfxMDnAj0_OaHyfifOtw?tags=CH_LOGO" group-title="NACIONALES Y NOTICIAS", CNN EN ESPAÑOL
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
