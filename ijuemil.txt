@@ -518,6 +518,37 @@ http://m3u.tvcluboficial.com/free/ReachBot/Kip/184.m3u8
 #EXTINF:-1 tvg-id="+CINE TERROR" tvg-logo="https://e7.pngegg.com/pngimages/327/703/png-clipart-cinema-film-moveis-logo-film.png",+CINE TERROR
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/180.m3u8
 
+#EXTINF:0 tvg-id="ENT Channel" group-title="ENT Pack" tvg-logo="https://www.40mediagroup.com/images/channels/ent-channel.png", ENT Channel (Opción 2)
+#EXTVLCOPT:network-caching=1000
+https://cdn.40mediagroup.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:0 tvg-id="ENT Family" group-title="ENT Pack" tvg-logo="https://www.40mediagroup.com/images/channels/ent-family.png", ENT Family
+#EXTVLCOPT:network-caching=1000
+https://cdn.40mediagroup.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:0 tvg-id="ENT Movies" group-title="ENT Pack" tvg-logo="https://www.40mediagroup.com/images/channels/ent-movies.png", ENT Movies
+#EXTVLCOPT:network-caching=1000
+https://cdn.40mediagroup.com/live/c7eds/ENT_Movies/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:0 tvg-id="ENT Drama" group-title="ENT Pack" tvg-logo="https://www.40mediagroup.com/images/channels/ent-drama.png", ENT Drama
+#EXTVLCOPT:network-caching=1000
+https://cdn.40mediagroup.com/live/c7eds/ENT_Drama/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:0 tvg-id="ENT Classic" group-title="ENT Pack" tvg-logo="https://www.40mediagroup.com/images/channels/ent-classic.png", ENT Classics
+#EXTVLCOPT:network-caching=1000
+https://cdn.40mediagroup.com/live/c7eds/ENT_Classics/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:0 tvg-id="ENT Life" group-title="ENT Pack" tvg-logo="https://www.40mediagroup.com/images/channels/ent-life.png", ENT Life
+#EXTVLCOPT:network-caching=1000
+https://cdn.40mediagroup.com/live/c7eds/ENT_Life/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:0 tvg-id="ENT Extreme" group-title="ENT Pack" tvg-logo="https://www.40mediagroup.com/images/channels/ent-extreme.png", ENT Extreme
+#EXTVLCOPT:network-caching=1000
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
+
+#EXTINF:0 tvg-id="ENT Comedy" group-title="ENT Pack" tvg-logo="https://www.40mediagroup.com/images/channels/ent-comedy.png", ENT Comedy
+#EXTVLCOPT:network-caching=1000
+https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
 
 #EXTINF:-1 tvg-id="Golden.ar" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345548/waykhtjrltosfh3wiqkl.png" group-title="Cine + Series",Golden 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -940,6 +971,9 @@ https://playerservices.streamtheworld.com/api/livestream-redirect/ASPEN
 
 #EXTINF:0 tvg-id="FM PLUS ROSARIO.ar" tvg-name="FM PLUS ROSARIO" CUID="112" tvg-logo="https://res.cloudinary.com/doj39auqi/image/upload/v1714824501/radios/logo_fmplus_br21jy.png" group-title="Argentina TV",FM PLUS ROSARIO
 https://ice3.edge-apps.net/joy-radios/frecuencia_plus/playlist.m3u8
+
+#EXTINF:0 tvg-id="FM LA WAPA.ar" tvg-name="FM LA WAPA" CUID="112" tvg-logo="https://www.lawapa.com.ar/img/LOGO_RADIOS.png" group-title="Argentina TV",FM LA WAPA
+https://genexservicios.com:8012/stream?1793282178531
 
 
 
