@@ -1,180 +1,231 @@
 #EXTM3U
-#EXTINF:-1,El 3 HD
+
+# =========================
+# Argentina Generalistas
+# =========================
+#EXTINF:-1 group-title="Argentina Generalistas",El Tres HD
 https://cdn-zapster-ros.trapemn.tv:1936/zapster/El3HD.stream/playlist.m3u8
-#EXTINF:-1,Telefe HD
+#EXTINF:-1 group-title="Argentina Generalistas",Telefe HD
 https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/TelefeHD.stream/playlist.m3u8
-#EXTINF:-1,America TV
+#EXTINF:-1 group-title="Argentina Generalistas",América TV
 https://cdn-zapster-ros.trapemn.tv:1936/Zapster/AmericaTV.stream/playlist.m3u8
-#EXTINF:-1,TV Publica
+#EXTINF:-1 group-title="Argentina Generalistas",TV Pública
 https://cdn-zapster-ros.trapemn.tv:1936/zapster-hls/tvpublica.stream/playlist.m3u8
-#EXTINF:-1,Canal 9
+#EXTINF:-1 group-title="Argentina Generalistas",El Nueve
 https://cdn-zapster-ros.trapemn.tv:1936/Zapster/Canal9.stream/playlist.m3u8
-#EXTINF:-1,El Trece HD
+#EXTINF:-1 group-title="Argentina Generalistas",El Trece HD
 https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/ElTreceHD.stream/playlist.m3u8
-#EXTINF:-1,Canal 5 Rosario
+
+# =========================
+# Argentina Locales y Regionales
+# =========================
+#EXTINF:-1 group-title="Argentina Locales y Regionales",Telefe Rosario
 https://cdn-zapster-ros.trapemn.tv:1936/zapster-transco/Canal5Rosario.stream/playlist.m3u8
-#EXTINF:-1,RTS
+#EXTINF:-1 group-title="Argentina Locales y Regionales",RTS
 https://cdn-zapster-ros.trapemn.tv:1936/zapster/rts/playlist.m3u8
-#EXTINF:-1,Todo Noticias
-https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/todonoticias/playlist.m3u8
-#EXTINF:-1,C5N
-https://cdn-zapster-ros.trapemn.tv:1936/zapster/c5n-new.stream/playlist.m3u8
-#EXTINF:-1,Cronica TV
-https://cdn-zapster-ros.trapemn.tv:1936/zapster-hls/CronicaTV/playlist.m3u8
-#EXTINF:-1,La Nacion
-https://cdn-zapster-ros.trapemn.tv:1936/zapster-hls/LaNacion.stream/playlist.m3u8
-#EXTINF:-1,Informacion Periodistica
-https://cdn-zapster-ros.trapemn.tv:1936/zapster-hls/InformacionPeriodistica.stream/playlist.m3u8
-#EXTINF:-1,Fox Sports 1
-https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/FoxSports1/playlist.m3u8
-#EXTINF:-1,Fox Sports 2
-https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/FoxSports2/playlist.m3u8
-#EXTINF:-1,Fox Sports 3
-https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/FoxSports3/playlist.m3u8
-#EXTINF:-1,TNT Sports
-https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/TNT_SPORTS/playlist.m3u8
-#EXTINF:-1,ESPN 1
-https://cdn-zapster-ros.trapemn.tv:1936/zapster-hls/ESPN1.stream/playlist.m3u8
-#EXTINF:-1,ESPN 2
-https://cdn-zapster-ros.trapemn.tv:1936/zapster-hls/ESPN2.stream/playlist.m3u8
-#EXTINF:-1,ESPN 3
-https://cdn-zapster-ros.trapemn.tv:1936/zapster-hls/ESPN3.stream/playlist.m3u8
-#EXTINF:-1,ESPN 4
-https://cdn-zapster-ros.trapemn.tv:1936/zapster-hls/ESPN4.stream/playlist.m3u8
-#EXTINF:-1,ESPN Premium HD
-https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/ESPNPremiumHD.steam/playlist.m3u8
-#EXTINF:-1,DSports 1
-https://cdn-zapster-ros.trapemn.tv:1936/Zapster-hls/dsports1/playlist.m3u8
-#EXTINF:-1,DSports 2
-https://cdn-zapster-ros.trapemn.tv:1936/zapster/dsports2/playlist.m3u8
-#EXTINF:-1,America Sports
-https://cdn-zapster-ros.trapemn.tv:1936/zapster-hls/americasports.stream/playlist.m3u8
-#EXTINF:-1,Garage TV
-https://cdn-zapster-ros.trapemn.tv:1936/zapster-hls/garagetv.stream/playlist.m3u8
-#EXTINF:-1,Cinar Deportes
-https://cdn-zapster-ros.trapemn.tv:1936/zapster-internet/cnardeportes/playlist.m3u8
-#EXTINF:-1,Studio Universal
-https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/Studio_Universal/playlist.m3u8
-#EXTINF:-1,Warner
-https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/Warner/playlist.m3u8
-#EXTINF:-1,TNT HD
-https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/TNTHD.stream/playlist.m3u8
-#EXTINF:-1,Space
-https://cdn-zapster-ros.trapemn.tv:1936/zapster-hls/space.stream/playlist.m3u8
-#EXTINF:-1,Cinecanal
-https://cdn-zapster-ros.trapemn.tv:1936/zapster-hls/cinecanal.stream/playlist.m3u8
-#EXTINF:-1,TNT Series
-https://cdn-zapster-ros.trapemn.tv:1936/zapster/TNT_Series.stream/playlist.m3u8
-#EXTINF:-1,TNT Novelas
-https://cdn-zapster-ros.trapemn.tv:1936/zapster/TNT_Novelas.stream/playlist.m3u8
-#EXTINF:-1,Universal Channel
-https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/Universal_Channel/playlist.m3u8
-#EXTINF:-1,Comedy Central
-https://cdn-zapster-ros.trapemn.tv:1936/Zapster/Comedi_Central.stream/playlist.m3u8
-#EXTINF:-1,DreamWorks
-https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/dreamworks.stream/playlist.m3u8
-#EXTINF:-1,Star Channel
-https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/Starchannel.stream/playlist.m3u8
-#EXTINF:-1,Cine Accion
-https://cdn-zapster-ros.trapemn.tv:1936/zapster-internet/cineaccion/playlist.m3u8
-#EXTINF:-1,Cartoon Network
-https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/Cartoon_Network/playlist.m3u8
-#EXTINF:-1,Nickelodeon
-https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/Nickelodeon/playlist.m3u8
-#EXTINF:-1,Nick Junior
-https://cdn-zapster-ros.trapemn.tv:1936/Zapster/Nick_Junior.stream/playlist.m3u8
-#EXTINF:-1,Aire Libre Rosario
+#EXTINF:-1 group-title="Argentina Locales y Regionales",Aire Libre Rosario
 https://cdn-zapster-ros.trapemn.tv:1936/zapster/airelibre_rosario.stream/playlist.m3u8
-#EXTINF:-1,Cartoonito
-https://cdn-zapster-ros.trapemn.tv:1936/zapster/Cartoonito.stream/playlist.m3u8
-#EXTINF:-1,Adult Swim
-https://cdn-zapster-ros.trapemn.tv:1936/Zapster/Adult_Swim.stream/playlist.m3u8
-#EXTINF:-1,PakaPaka
-https://cdn-zapster-ros.trapemn.tv:1936/zapster-hls/PakaPaka.stream/playlist.m3u8
-#EXTINF:-1,Disney Channel HD
-https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/DisneyChannelHD.stream/playlist.m3u8
-#EXTINF:-1,Disney Jr
-https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/DisneyJr.stream/playlist.m3u8
-#EXTINF:-1,HTV
-https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/HTV.stream/playlist.m3u8
-#EXTINF:-1,Mix Music Channel
-https://cdn-zapster-ros.trapemn.tv:1936/zapster/mixmusicchannel/playlist.m3u8
-#EXTINF:-1,La Nueva TV
-https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/lanuevatv.stream/playlist.m3u8
-#EXTINF:-1,Tropical Moon
-https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/tropicalmoon.stream/playlist.m3u8
-#EXTINF:-1,Cine AR
-https://cdn-zapster-ros.trapemn.tv:1936/zapster-hls/CineAR.stream/playlist.m3u8
-#EXTINF:-1,TCM
-https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/TCM.stream/playlist.m3u8
-#EXTINF:-1,Telemundo
-https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/telemundo.stream/playlist.m3u8
-#EXTINF:-1,Xtreme Retro Cartoons
-https://cdn-zapster-ros.trapemn.tv:1936/zapster-internet/xtremaretrocartoons/playlist.m3u8
-#EXTINF:-1,National Geographic
-https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/natgeo.stream/playlist.m3u8
-#EXTINF:-1,Encuentro
-https://cdn-zapster-ros.trapemn.tv:1936/zapster-hls/encuentro.stream/playlist.m3u8
-#EXTINF:-1,TecTV
-https://cdn-zapster-ros.trapemn.tv:1936/zapster-hls/TecTV.stream/playlist.m3u8
-#EXTINF:-1,CNN
-https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/CNN/playlist.m3u8
-#EXTINF:-1,DW Espanol
-https://cdn-zapster-ros.trapemn.tv:1936/zapster-internet/dw_es/playlist.m3u8
-#EXTINF:-1,France 24 Espanol
-https://cdn-zapster-ros.trapemn.tv:1936/zapster-internet/france24_es/playlist.m3u8
-#EXTINF:-1,France 24 Ingles
-https://cdn-zapster-ros.trapemn.tv:1936/zapster-internet/france24_ingles/playlist.m3u8
-#EXTINF:-1,RTVE
-https://cdn-zapster-ros.trapemn.tv:1936/zapster-internet/rtesp/playlist.m3u8
-#EXTINF:-1,Onda Digital
-https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/ondadigital.stream/playlist.m3u8
-#EXTINF:-1,Argentinisima
-https://cdn-zapster-ros.trapemn.tv:1936/zapster-internet/argentinisima/playlist.m3u8
-#EXTINF:-1,Ciudad Magazine
-https://cdn-zapster-ros.trapemn.tv:1936/zapster-hls/ciudadmagazine.stream/playlist.m3u8
-#EXTINF:-1,Entertainment
-https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/Entertainment/playlist.m3u8
-#EXTINF:-1,BTV Musica Retro
-https://cdn-zapster-ros.trapemn.tv:1936/zapster-hls/BTV_Musica_Retro/playlist.m3u8
-#EXTINF:-1,CNC Medellin
-https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/cncmedellin.stream/playlist.m3u8
-#EXTINF:-1,Click TV
-https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/clicktv.stream/playlist.m3u8
-#EXTINF:-1,UCL
-https://cdn-zapster-ros.trapemn.tv:1936/internacional/ucl.stream/playlist.m3u8
-#EXTINF:-1,Suram TV
-https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/suramtv.stream/playlist.m3u8
-#EXTINF:-1,VPI TV
-https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/vpitv.stream/playlist.m3u8
-#EXTINF:-1,Carioca Internacional
-https://cdn-zapster-ros.trapemn.tv:1936/live/cariocainternacional/playlist.m3u8
-#EXTINF:-1,Aunar
-https://cdn-zapster-ros.trapemn.tv:1936/zapster-hls/Aunar.stream/playlist.m3u8
-#EXTINF:-1,Canal E
+
+# =========================
+# Noticias Argentina
+# =========================
+#EXTINF:-1 group-title="Noticias Argentina",Todo Noticias (TN)
+https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/todonoticias/playlist.m3u8
+#EXTINF:-1 group-title="Noticias Argentina",C5N
+https://cdn-zapster-ros.trapemn.tv:1936/zapster/c5n-new.stream/playlist.m3u8
+#EXTINF:-1 group-title="Noticias Argentina",Crónica TV
+https://cdn-zapster-ros.trapemn.tv:1936/zapster-hls/CronicaTV/playlist.m3u8
+#EXTINF:-1 group-title="Noticias Argentina",LN+
+https://cdn-zapster-ros.trapemn.tv:1936/zapster-hls/LaNacion.stream/playlist.m3u8
+#EXTINF:-1 group-title="Noticias Argentina",IP Noticias
+https://cdn-zapster-ros.trapemn.tv:1936/zapster-hls/InformacionPeriodistica.stream/playlist.m3u8
+#EXTINF:-1 group-title="Noticias Argentina",Canal E
 https://cdn-zapster-ros.trapemn.tv:1936/zapster-hls/CanalE.stream/playlist.m3u8
-#EXTINF:-1,CN23
+#EXTINF:-1 group-title="Noticias Argentina",CN23
 https://cdn-zapster-ros.trapemn.tv:1936/zapster-hls/CN23.stream/playlist.m3u8
-#EXTINF:-1,Canal Luz
-https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/canalluz.stream/playlist.m3u8
-#EXTINF:-1,Nativa
-https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/nativa.stream/playlist.m3u8
-#EXTINF:-1,Nuevo Tiempo
-https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/nuevotiempo.stream/playlist.m3u8
-#EXTINF:-1,EWTN
-https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/ewtn.stream/playlist.m3u8
-#EXTINF:-1,Sophia TV
-https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/sophiatv.stream/playlist.m3u8
-#EXTINF:-1,Enlace
-https://cdn-zapster-ros.trapemn.tv:1936/prueba_block/enlace.stream/playlist.m3u8
-#EXTINF:-1,Suyai TV
-https://cdn-zapster-ros.trapemn.tv:1936/Zapster/suyaiTV.stream/playlist.m3u8
-#EXTINF:-1,El Destape
+#EXTINF:-1 group-title="Noticias Argentina",El Destape TV
 https://cdn-zapster-ros.trapemn.tv:1936/zapster-hls/Destape.stream/playlist.m3u8
-#EXTINF:-1,Vive TV
+
+# =========================
+# Noticias Internacionales
+# =========================
+#EXTINF:-1 group-title="Noticias Internacionales",CNN en Español
+https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/CNN/playlist.m3u8
+#EXTINF:-1 group-title="Noticias Internacionales",DW Español
+https://cdn-zapster-ros.trapemn.tv:1936/zapster-internet/dw_es/playlist.m3u8
+#EXTINF:-1 group-title="Noticias Internacionales",France 24 Español
+https://cdn-zapster-ros.trapemn.tv:1936/zapster-internet/france24_es/playlist.m3u8
+#EXTINF:-1 group-title="Noticias Internacionales",France 24 English
+https://cdn-zapster-ros.trapemn.tv:1936/zapster-internet/france24_ingles/playlist.m3u8
+#EXTINF:-1 group-title="Noticias Internacionales",RT en Español
+https://cdn-zapster-ros.trapemn.tv:1936/zapster-internet/rtesp/playlist.m3u8
+#EXTINF:-1 group-title="Noticias Internacionales",CNC Medellín
+https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/cncmedellin.stream/playlist.m3u8
+
+# =========================
+# Deportes
+# =========================
+#EXTINF:-1 group-title="Deportes",Fox Sports 1
+https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/FoxSports1/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",Fox Sports 2
+https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/FoxSports2/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",Fox Sports 3
+https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/FoxSports3/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",TNT Sports
+https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/TNT_SPORTS/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 1
+https://cdn-zapster-ros.trapemn.tv:1936/zapster-hls/ESPN1.stream/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 2
+https://cdn-zapster-ros.trapemn.tv:1936/zapster-hls/ESPN2.stream/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 3
+https://cdn-zapster-ros.trapemn.tv:1936/zapster-hls/ESPN3.stream/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN 4
+https://cdn-zapster-ros.trapemn.tv:1936/zapster-hls/ESPN4.stream/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",ESPN Premium
+https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/ESPNPremiumHD.steam/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",DSports
+https://cdn-zapster-ros.trapemn.tv:1936/Zapster-hls/dsports1/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",DSports 2
+https://cdn-zapster-ros.trapemn.tv:1936/zapster/dsports2/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",América Sports
+https://cdn-zapster-ros.trapemn.tv:1936/zapster-hls/americasports.stream/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",El Garage TV
+https://cdn-zapster-ros.trapemn.tv:1936/zapster-hls/garagetv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",CNC Deportes
+https://cdn-zapster-ros.trapemn.tv:1936/zapster-internet/cnardeportes/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",Canal UCL
+https://cdn-zapster-ros.trapemn.tv:1936/internacional/ucl.stream/playlist.m3u8
+
+# =========================
+# Cine y Series
+# =========================
+#EXTINF:-1 group-title="Cine y Series",Studio Universal
+https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/Studio_Universal/playlist.m3u8
+#EXTINF:-1 group-title="Cine y Series",Warner Channel
+https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/Warner/playlist.m3u8
+#EXTINF:-1 group-title="Cine y Series",TNT HD
+https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/TNTHD.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cine y Series",Space
+https://cdn-zapster-ros.trapemn.tv:1936/zapster-hls/space.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cine y Series",Cinecanal
+https://cdn-zapster-ros.trapemn.tv:1936/zapster-hls/cinecanal.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cine y Series",TNT Series
+https://cdn-zapster-ros.trapemn.tv:1936/zapster/TNT_Series.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cine y Series",TNT Novelas
+https://cdn-zapster-ros.trapemn.tv:1936/zapster/TNT_Novelas.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cine y Series",Universal TV
+https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/Universal_Channel/playlist.m3u8
+#EXTINF:-1 group-title="Cine y Series",Comedy Central
+https://cdn-zapster-ros.trapemn.tv:1936/Zapster/Comedi_Central.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cine y Series",Star Channel
+https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/Starchannel.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cine y Series",Pluto TV Cine Acción
+https://cdn-zapster-ros.trapemn.tv:1936/zapster-internet/cineaccion/playlist.m3u8
+#EXTINF:-1 group-title="Cine y Series",CINE.AR
+https://cdn-zapster-ros.trapemn.tv:1936/zapster-hls/CineAR.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cine y Series",TCM
+https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/TCM.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cine y Series",Adult Swim
+https://cdn-zapster-ros.trapemn.tv:1936/Zapster/Adult_Swim.stream/playlist.m3u8
+
+# =========================
+# Infantil y Animación
+# =========================
+#EXTINF:-1 group-title="Infantil y Animación",DreamWorks Channel
+https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/dreamworks.stream/playlist.m3u8
+#EXTINF:-1 group-title="Infantil y Animación",Cartoon Network
+https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/Cartoon_Network/playlist.m3u8
+#EXTINF:-1 group-title="Infantil y Animación",Nickelodeon
+https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/Nickelodeon/playlist.m3u8
+#EXTINF:-1 group-title="Infantil y Animación",Nick Jr.
+https://cdn-zapster-ros.trapemn.tv:1936/Zapster/Nick_Junior.stream/playlist.m3u8
+#EXTINF:-1 group-title="Infantil y Animación",Cartoonito
+https://cdn-zapster-ros.trapemn.tv:1936/zapster/Cartoonito.stream/playlist.m3u8
+#EXTINF:-1 group-title="Infantil y Animación",Paka Paka
+https://cdn-zapster-ros.trapemn.tv:1936/zapster-hls/PakaPaka.stream/playlist.m3u8
+#EXTINF:-1 group-title="Infantil y Animación",Disney Channel
+https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/DisneyChannelHD.stream/playlist.m3u8
+#EXTINF:-1 group-title="Infantil y Animación",Disney Jr.
+https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/DisneyJr.stream/playlist.m3u8
+#EXTINF:-1 group-title="Infantil y Animación",Xtrema Retro Cartoons
+https://cdn-zapster-ros.trapemn.tv:1936/zapster-internet/xtremaretrocartoons/playlist.m3u8
+
+# =========================
+# Música
+# =========================
+#EXTINF:-1 group-title="Música",HTV
+https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/HTV.stream/playlist.m3u8
+#EXTINF:-1 group-title="Música",Mix Music Channel
+https://cdn-zapster-ros.trapemn.tv:1936/zapster/mixmusicchannel/playlist.m3u8
+#EXTINF:-1 group-title="Música",Tropical Moon TV
+https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/tropicalmoon.stream/playlist.m3u8
+#EXTINF:-1 group-title="Música",Argentinísima Satelital
+https://cdn-zapster-ros.trapemn.tv:1936/zapster-internet/argentinisima/playlist.m3u8
+#EXTINF:-1 group-title="Música",BTV Música Retro
+https://cdn-zapster-ros.trapemn.tv:1936/zapster-hls/BTV_Musica_Retro/playlist.m3u8
+
+# =========================
+# Cultura y Educación
+# =========================
+#EXTINF:-1 group-title="Cultura y Educación",Canal Encuentro
+https://cdn-zapster-ros.trapemn.tv:1936/zapster-hls/encuentro.stream/playlist.m3u8
+#EXTINF:-1 group-title="Cultura y Educación",TEC TV
+https://cdn-zapster-ros.trapemn.tv:1936/zapster-hls/TecTV.stream/playlist.m3u8
+
+# =========================
+# Documentales
+# =========================
+#EXTINF:-1 group-title="Documentales",National Geographic
+https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/natgeo.stream/playlist.m3u8
+
+# =========================
+# Religiosos
+# =========================
+#EXTINF:-1 group-title="Religiosos",Canal Luz
+https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/canalluz.stream/playlist.m3u8
+#EXTINF:-1 group-title="Religiosos",Nuevo Tiempo
+https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/nuevotiempo.stream/playlist.m3u8
+#EXTINF:-1 group-title="Religiosos",EWTN
+https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/ewtn.stream/playlist.m3u8
+#EXTINF:-1 group-title="Religiosos",Sophia TV
+https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/sophiatv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Religiosos",Enlace
+https://cdn-zapster-ros.trapemn.tv:1936/prueba_block/enlace.stream/playlist.m3u8
+
+# =========================
+# Variedades y Entretenimiento
+# =========================
+#EXTINF:-1 group-title="Variedades y Entretenimiento",La Nueva TV
+https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/lanuevatv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Variedades y Entretenimiento",Onda Digital TV
+https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/ondadigital.stream/playlist.m3u8
+#EXTINF:-1 group-title="Variedades y Entretenimiento",Ciudad Magazine
+https://cdn-zapster-ros.trapemn.tv:1936/zapster-hls/ciudadmagazine.stream/playlist.m3u8
+#EXTINF:-1 group-title="Variedades y Entretenimiento",E! Entertainment Television
+https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/Entertainment/playlist.m3u8
+#EXTINF:-1 group-title="Variedades y Entretenimiento",Clic
+https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/clicktv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Variedades y Entretenimiento",Suram Televisión
+https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/suramtv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Variedades y Entretenimiento",VPI TV
+https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/vpitv.stream/playlist.m3u8
+#EXTINF:-1 group-title="Variedades y Entretenimiento",Aunar
+https://cdn-zapster-ros.trapemn.tv:1936/zapster-hls/Aunar.stream/playlist.m3u8
+#EXTINF:-1 group-title="Variedades y Entretenimiento",Nativa
+https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/nativa.stream/playlist.m3u8
+#EXTINF:-1 group-title="Variedades y Entretenimiento",Suyai TV
+https://cdn-zapster-ros.trapemn.tv:1936/Zapster/suyaiTV.stream/playlist.m3u8
+#EXTINF:-1 group-title="Variedades y Entretenimiento",Vive TV
 https://cdn-zapster-ros.trapemn.tv:1936/Zapster-hls/vivetv.stream/playlist.m3u8
 
-#EXTM3U
+# =========================
+# Internacional
+# =========================
+#EXTINF:-1 group-title="Internacional",Telemundo
+https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/telemundo.stream/playlist.m3u8
+#EXTINF:-1 group-title="Internacional",TV Carioca Internacional
+https://cdn-zapster-ros.trapemn.tv:1936/live/cariocainternacional/playlist.m3u8
+
 #EXTINF:0 tvg-id="VEO SANTA FE.ar" tvg-name="VEO SANTA FE" CUID="2" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345346/amrez8xvti7qszmwoorl.png" group-title="Argentina TV",VEO SANTA FE
 https://joy.nx-pc.edge-apps.net/hls/96blm-4g2p9-jim16-3b26n.m3u8
 #EXTINF:0 tvg-id="TN.ar" tvg-name="TN" CUID="3" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345069/wy5gze1xto6u7pzndpo4.png" group-title="Argentina TV",TN
