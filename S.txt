@@ -389,35 +389,35 @@ https://joy.nx-pc.edge-apps.net/hls/pf7b-4746p-o4dp5-5angp.m3u8
 
 #EXTINF:0 tvg-id="ENT Channel" group-title="ENT Pack" tvg-logo="https://www.40mediagroup.com/images/channels/ent-channel.png", ENT Channel
 #EXTVLCOPT:network-caching=1000
-https://cdn.40mediagroup.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
+https://cdn.kift.live/webtv/ENT_Channel/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:0 tvg-id="ENT Family" group-title="ENT Pack" tvg-logo="https://www.40mediagroup.com/images/channels/ent-family.png", ENT Family
 #EXTVLCOPT:network-caching=1000
-https://cdn.40mediagroup.com/live/c7eds/ENT_Family/SA_LIVE_hls_enc/master.m3u8
+https://cdn.kift.live/webtv/ENT_Family/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:0 tvg-id="ENT Movies" group-title="ENT Pack" tvg-logo="https://www.40mediagroup.com/images/channels/ent-movies.png", ENT Movies
 #EXTVLCOPT:network-caching=1000
-https://cdn.40mediagroup.com/live/c7eds/ENT_Movies/SA_LIVE_hls_enc/master.m3u8
+https://cdn.kift.live/webtv/ENT_Movies/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:0 tvg-id="ENT Drama" group-title="ENT Pack" tvg-logo="https://www.40mediagroup.com/images/channels/ent-drama.png", ENT Drama
 #EXTVLCOPT:network-caching=1000
-https://cdn.40mediagroup.com/live/c7eds/ENT_Drama/SA_LIVE_hls_enc/master.m3u8
+https://cdn.kift.live/webtv/ENT_Drama/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:0 tvg-id="ENT Classic" group-title="ENT Pack" tvg-logo="https://www.40mediagroup.com/images/channels/ent-classic.png", ENT Classics
 #EXTVLCOPT:network-caching=1000
-https://cdn.40mediagroup.com/live/c7eds/ENT_Classics/SA_LIVE_hls_enc/master.m3u8
+https://cdn.kift.live/webtv/ENT_Classics/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:0 tvg-id="ENT Life" group-title="ENT Pack" tvg-logo="https://www.40mediagroup.com/images/channels/ent-life.png", ENT Life
 #EXTVLCOPT:network-caching=1000
-https://cdn.40mediagroup.com/live/c7eds/ENT_Life/SA_LIVE_hls_enc/master.m3u8
+https://cdn.kift.live/webtv/ENT_Life/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:0 tvg-id="ENT Extreme" group-title="ENT Pack" tvg-logo="https://www.40mediagroup.com/images/channels/ent-extreme.png", ENT Extreme
 #EXTVLCOPT:network-caching=1000
-https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Concerts/SA_LIVE_hls_enc/master.m3u8
+https://cdn.kift.live/webtv/Totalmusic_Concerts/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:0 tvg-id="ENT Comedy" group-title="ENT Pack" tvg-logo="https://www.40mediagroup.com/images/channels/ent-comedy.png", ENT Comedy
 #EXTVLCOPT:network-caching=1000
-https://cdn.40mediagroup.com/live/c7eds/Totalmusic_Dance/SA_LIVE_hls_enc/master.m3u8
+https://cdn.kift.live/webtv/Totalmusic_Dance/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:0 tvg-id="GOLDEN.ar" tvg-name="GOLDEN" CUID="49" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345548/waykhtjrltosfh3wiqkl.png" group-title="Argentina TV",GOLDEN
 https://joy.nx-pc.edge-apps.net/hls/3ndhm-1aci9-g528l-oblaf.m3u8
