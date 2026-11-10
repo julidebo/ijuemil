@@ -160,7 +160,7 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/nzl2d4ffbw/
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hoo4ddqavw/out/v1/dadfb43b8a714e4f9288026b5c3351a0/cenc.mpd|User-Agent=AivAndroidPlayer/1.0 (AndroidDevice)&Referer=https://www.primevideo.com/
 
 #EXTINF:-1 tvg-id="1148" tvg-logo="http://i.tvcluboficial.com/dazn.png" group-title="Deportes",DAZN F1 HD
-http://45.134.141.161:2200/ARG/Formula_1_HD/tracks-v1a1/mono.m3u8
+https://tvorb.net/ZTV/6918-live.m3u8
 
 
 #EXTINF:0 tvg-id="DEPORTV.ar" tvg-name="DEPORTV" CUID="31" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1749237097/ktodxvqmqpbo1lhl452v.png" group-title="Argentina TV",DEPORTV
@@ -293,7 +293,7 @@ https://cdn-zapster-ros.trapemn.tv:1936/Zapster/Adult_Swim.stream/playlist.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4606.129 Safari/537.36 HxxTV/2.5 (DSG;LG/ESTCV)
-http://m3u.tvcluboficial.com/free/ReachBot/Kip/216.m3u8
+https://barinaslive1.boldmss.com/COMEDY/COMEDY.isml/COMEDY.m3u8
 
 #EXTINF:0 tvg-id="FILM & ARTS.ar" tvg-name="FILM & ARTS" CUID="48" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684346138/os0793nnsdcby18gttcg.png" group-title="Argentina TV",FILM & ARTS
 https://joy.nx-pc.edge-apps.net/hls/9nf94-h29hf-eme9n-iga8e.m3u8
@@ -304,7 +304,7 @@ https://joy.nx-pc.edge-apps.net/hls/9nf94-h29hf-eme9n-iga8e.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4606.129 Safari/537.36 HxxTV/2.5 (DSG;LG/ESTCV)
-http://190.7.19.206:8098/play/a0nb/index.m3u8
+https://streaming.onnethn.com/LIFETIME/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AandE.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/RU1HcljE4i3xPpFg9mhUCQ?tags=CH_LOGO" group-title="VARIEDADES", A&E 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -312,7 +312,7 @@ http://190.7.19.206:8098/play/a0nb/index.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4606.129 Safari/537.36 HxxTV/2.5 (DSG;LG/ESTCV)
-http://190.7.19.206:8098/play/a0p7/index.m3u8
+https://streaming.onnethn.com/AyE/playlist.m3u8
 
 #EXTINF:0 tvg-id="AMC.ar" tvg-name="AMC" CUID="50" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344432/rpwhd2jsw6f45i468bew.png" group-title="Argentina TV",AMC
 https://joy.nx-pc.edge-apps.net/hls/bi2ih-e4ike-kb3hi-4fhf5.m3u8
@@ -329,7 +329,7 @@ https://joy.nx-pc.edge-apps.net/hls/e2f1o-66f4a-9m7dn-aphj2.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4606.129 Safari/537.36 HxxTV/2.5 (DSG;LG/ESTCV)
-http://190.7.19.206:8098/play/a0p4/index.m3u8
+https://streaming.onnethn.com/AXN_HD/playlist.m3u8
 
 #EXTINF:0 tvg-id="TNT SERIES.ar" tvg-name="TNT SERIES" CUID="53" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345574/crvpq9vwaupct2wumr9l.png" group-title="Argentina TV",TNT SERIES
 https://joy.nx-pc.edge-apps.net/hls/o7hff-5j8a5-kfh7n-focci.m3u8
@@ -369,11 +369,14 @@ http://181.78.8.199:8000/play/a0bt/index.m3u8
 #EXTINF:-1 tvg-id="FXMOVIES" tvg-logo="https://www.fmh.la/images/logos_slider/movies.png" group-title="Peliculas", FXMOVIES
 http://38.210.105.10:8000/play/a07s/index.m3u8
 
-#EXTINF:-1 tvg-id="+CINE ZOMBIES" tvg-logo="https://e7.pngegg.com/pngimages/327/703/png-clipart-cinema-film-moveis-logo-film.png",+CINE ZOMBIES
+#EXTINF:-1 tvg-id="CINE ZOMBIES" tvg-logo="https://e7.pngegg.com/pngimages/327/703/png-clipart-cinema-film-moveis-logo-film.png",CINE ZOMBIES
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/184.m3u8
 
-#EXTINF:-1 tvg-id="+CINE TERROR" tvg-logo="https://e7.pngegg.com/pngimages/327/703/png-clipart-cinema-film-moveis-logo-film.png",+CINE TERROR
+#EXTINF:-1 tvg-id="CINE TERROR" tvg-logo="https://e7.pngegg.com/pngimages/327/703/png-clipart-cinema-film-moveis-logo-film.png",CINE TERROR
 http://m3u.tvcluboficial.com/free/ReachBot/Kip/181.m3u8
+
+#EXTINF:-1 tvg-id="CINE TERROR 2" tvg-logo="https://e7.pngegg.com/pngimages/327/703/png-clipart-cinema-film-moveis-logo-film.png",CINE TERROR 2
+https://jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8
 
 #EXTINF:0 tvg-id="CINE PREMIUM.ar" tvg-name="CINE PREMIUM" CUID="76" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345688/s1gwqr9b7ipbxy4jm2cp.png" group-title="Argentina TV",CINE PREMIUM
 https://joy.nx-pc.edge-apps.net/hls/d4bhf-fflam-b5fon-7kcff.m3u8
@@ -384,7 +387,7 @@ https://joy.nx-pc.edge-apps.net/hls/14nj5-o3nib-lfdgo-ha1ib.m3u8
 #EXTINF:0 tvg-id="CINE HISPANO.ar" tvg-name="CINE HISPANO" CUID="78" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345736/dustkhfhwtbduu0zrl5n.png" group-title="Argentina TV",CINE HISPANO
 https://joy.nx-pc.edge-apps.net/hls/pf7b-4746p-o4dp5-5angp.m3u8
 
-#EXTINF:0 tvg-id="ENT Channel" group-title="ENT Pack" tvg-logo="https://www.40mediagroup.com/images/channels/ent-channel.png", ENT Channel (Opción 2)
+#EXTINF:0 tvg-id="ENT Channel" group-title="ENT Pack" tvg-logo="https://www.40mediagroup.com/images/channels/ent-channel.png", ENT Channel
 #EXTVLCOPT:network-caching=1000
 https://cdn.40mediagroup.com/live/c7eds/ENT_Channel/SA_LIVE_hls_enc/master.m3u8
 
@@ -425,7 +428,7 @@ https://joy.nx-pc.edge-apps.net/hls/3ndhm-1aci9-g528l-oblaf.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4606.129 Safari/537.36 HxxTV/2.5 (DSG;LG/ESTCV)
-http://181.78.21.171:8000/play/a004
+http://15.204.196.147:22880/RECEPCION-GOLDEN_EDGE-LATAM-FHD/video.m3u8
 
 
 #EXTINF:0 tvg-id="HBO.ar" tvg-name="HBO" CUID="68" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344148/ydjbqizsk5ivxmecww98.png" group-title="Argentina TV",HBO
@@ -458,7 +461,7 @@ https://joy.nx-pc.edge-apps.net/hls/5o27b-5alop-lcagn-834c8.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4606.129 Safari/537.36 HxxTV/2.5 (DSG;LG/ESTCV)
-http://m3u.tvcluboficial.com/free/ReachBot/Kip/1003.m3u8
+https://barinaslive1.boldmss.com/UNIVERSAL_PREMIERE/UNIVERSAL_PREMIERE.isml/UNIVERSAL_PREMIERE.m3u8
 
 #EXTINF:-1  ch-number="346" tvg-id="Universal Crime.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICR.png?raw=true" group-title="UNIVERSAL+", Universal Crime
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -466,7 +469,7 @@ http://m3u.tvcluboficial.com/free/ReachBot/Kip/1003.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4606.129 Safari/537.36 HxxTV/2.5 (DSG;LG/ESTCV)
-http://45.181.120.65:9087/play/a0f8/index.m3u8?PlaylistM3UCL
+https://barinaslive1.boldmss.com/UNIVERSAL_CRIME/UNIVERSAL_CRIME.isml/UNIVERSAL_CRIME.m3u8
 
 #EXTINF:-1  ch-number="345" tvg-id="Universal Comedy.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICO.png?raw=true" group-title="UNIVERSAL+", Universal Comedy
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -474,7 +477,7 @@ http://45.181.120.65:9087/play/a0f8/index.m3u8?PlaylistM3UCL
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4606.129 Safari/537.36 HxxTV/2.5 (DSG;LG/ESTCV)
-http://38.210.105.10:8000/play/a0hq/index.m3u8
+https://barinaslive1.boldmss.com/UNIVERSAL_COMEDY/UNIVERSAL_COMEDY.isml/UNIVERSAL_COMEDY.m3u8
 
 #EXTINF:-1  ch-number="344" tvg-id="Universal Cinema.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNICI.png?raw=true" group-title="UNIVERSAL+", Universal Cinema
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -482,7 +485,7 @@ http://38.210.105.10:8000/play/a0hq/index.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4606.129 Safari/537.36 HxxTV/2.5 (DSG;LG/ESTCV)
-http://m3u.tvcluboficial.com/free/ReachBot/Kip/988.m3u8
+https://barinaslive1.boldmss.com/UNIVERSAL_CINEMA/UNIVERSAL_CINEMA.isml/UNIVERSAL_CINEMA.m3u8
 
 #EXTINF:-1  ch-number="347" tvg-id="Universal Reality.uy" tvg-logo="https://github.com/masterentertainment/listas/blob/main/logos/UNIRE.png?raw=true" group-title="UNIVERSAL+", Universal Reality
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -490,7 +493,7 @@ http://m3u.tvcluboficial.com/free/ReachBot/Kip/988.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4606.129 Safari/537.36 HxxTV/2.5 (DSG;LG/ESTCV)
-http://38.210.105.10:8000/play/a0ho/index.m3u8
+https://barinaslive1.boldmss.com/UNIVERSAL_REALITY/UNIVERSAL_REALITY.isml/UNIVERSAL_REALITY.m3u8
 
 #EXTINF:-1 tvg-id="StarChannel.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/pp9P0CQ3Tr3saLnk1K2AgQ?tags=CH_LOGO" group-title="CINE Y SERIES", STAR CHANNEL
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -535,7 +538,7 @@ https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/TNTHD.stream/playlist.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4606.129 Safari/537.36 HxxTV/2.5 (DSG;LG/ESTCV)
-https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/Studio_Universal/playlist.m3u8
+http://45.184.109.10/live/69393EAE6ADBC65A68F942022362A202/53.m3u8
 
 #EXTINF:-1 tvg-id="UniversalTV.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/ciwOM-VXylKqJzf9viWjeA?tags=CH_LOGO" group-title="CINE Y SERIES", UNIVERSAL TV
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -556,7 +559,7 @@ https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/Warner/playlist.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4606.129 Safari/537.36 HxxTV/2.5 (DSG;LG/ESTCV)
-http://190.7.19.206:8098/play/a0lz/index.m3u8
+https://barinaslive1.boldmss.com/USA/USA.isml/USA.m3u8
 
 #EXTINF:-1 tvg-id="TCM.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/-UdH-NcJjn-2oF4McDWFdA?tags=CH_LOGO" group-title="CINE Y SERIES", TCM
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -567,7 +570,7 @@ http://190.7.19.206:8098/play/a0lz/index.m3u8
 https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/TCM.stream/playlist.m3u8
 
 #EXTINF:0 tvg-id="LOVE NATURE.ar" tvg-name="LOVE NATURE" CUID="86" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684345917/n2qqptz2k27lp759s2it.png" group-title="Argentina TV",LOVE NATURE
-https://joy.nx-pc.edge-apps.net/hls/f2ljo-jb10f-fjjfe-622fg.m3u8
+https://barinaslive1.boldmss.com/LOVE_NATURE/LOVE_NATURE.isml/LOVE_NATURE.m3u8
 
 #EXTINF:-1 tvg-id="AnimalPlanet.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/CGK4TLWx_s-GVxkGA69uVQ?tags=CH_LOGO" group-title="VARIEDADES", ANIMAL PLANET
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -575,7 +578,7 @@ https://joy.nx-pc.edge-apps.net/hls/f2ljo-jb10f-fjjfe-622fg.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4606.129 Safari/537.36 HxxTV/2.5 (DSG;LG/ESTCV)
-http://190.7.19.206:8098/play/a0qk/index.m3u8
+https://barinaslive1.boldmss.com/ANIMAL_PLANET/ANIMAL_PLANET.isml/ANIMAL_PLANET.m3u8
 
 #EXTINF:-1 tvg-id="Discovery.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/EsvkD06EpyPQG58R6A82yA?tags=CH_LOGO" group-title="VARIEDADES", DISCOVERY
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -583,7 +586,7 @@ http://190.7.19.206:8098/play/a0qk/index.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4606.129 Safari/537.36 HxxTV/2.5 (DSG;LG/ESTCV)
-http://190.7.19.206:8098/play/a0o7/index.m3u8
+https://barinaslive1.boldmss.com/DISCOVERY/DISCOVERY.isml/DISCOVERY.m3u8
 
 #EXTINF:0 tvg-id="DISCOVERY HOME&HEALTH.ar" tvg-name="DISCOVERY HOME&HEALTH" CUID="83" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684344394/cq5nr0zp7kdh1mdi2mrv.png" group-title="Argentina TV",DISCOVERY HOME&HEALTH
 https://joy.nx-pc.edge-apps.net/hls/5ea6f-88j6g-p7811-p312n.m3u8
@@ -594,7 +597,7 @@ https://joy.nx-pc.edge-apps.net/hls/5ea6f-88j6g-p7811-p312n.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4606.129 Safari/537.36 HxxTV/2.5 (DSG;LG/ESTCV)
-http://190.7.19.206:8098/play/a0ql/index.m3u8
+https://barinaslive1.boldmss.com/ID/ID.isml/ID.m3u8
 
 #EXTINF:0 tvg-id="DISCOVERY TLC.ar" tvg-name="DISCOVERY TLC" CUID="87" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1749408442/tgphkhbrgddkeznerscl.png" group-title="Argentina TV",DISCOVERY TLC
 https://joy.nx-pc.edge-apps.net/hls/feo4p-6m8di-39pf4-j1h25.m3u8
@@ -621,7 +624,7 @@ http://190.7.19.206:8098/play/a0mu/index.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4606.129 Safari/537.36 HxxTV/2.5 (DSG;LG/ESTCV)
-http://190.7.19.206:8098/play/a0me/index.m3u8
+http://38.87.224.19:2220/play/a01p/index.m3u8
 
 #EXTINF:-1 tvg-id="DiscoveryScience.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/bPn-aBUgxpA0FNYgsVIkyw?tags=CH_LOGO" group-title="VARIEDADES", DISCOVERY SCIENCE
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -629,7 +632,7 @@ http://190.7.19.206:8098/play/a0me/index.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4606.129 Safari/537.36 HxxTV/2.5 (DSG;LG/ESTCV)
-http://190.7.19.206:8098/play/a0mf/index.m3u8
+https://barinaslive1.boldmss.com/DISCOVERY_SCIENCE/DISCOVERY_SCIENCE.isml/DISCOVERY_SCIENCE.m3u8
 
 #EXTINF:-1 tvg-id="History.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/yNw82gG5hmdPJFUfnL_t5A?tags=CH_LOGO" group-title="VARIEDADES", HISTORY
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -637,7 +640,7 @@ http://190.7.19.206:8098/play/a0mf/index.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4606.129 Safari/537.36 HxxTV/2.5 (DSG;LG/ESTCV)
-http://190.7.19.206:8098/play/a0oq/index.m3u8
+https://streaming.onnethn.com/HISTORY_HD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="History 2.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/8xYgzdDte1mjpZ9hQTnCSg?tags=CH_LOGO" group-title="VARIEDADES", HISTORY 2
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -645,7 +648,7 @@ http://190.7.19.206:8098/play/a0oq/index.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4606.129 Safari/537.36 HxxTV/2.5 (DSG;LG/ESTCV)
-http://190.7.19.206:8098/play/a0md/index.m3u8
+https://streaming.onnethn.com/HISTORY_2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NationalGeographic.ar" tvg-logo="https://cdn.bo.flow.com.ar/images/content/60/40/l1d77znunhRLOy6hvZYZ_A?tags=CH_LOGO" group-title="VARIEDADES", NAT GEO
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -661,7 +664,7 @@ https://cdn-zapster-ros.trapemn.tv:1936/CD-LATAM/natgeo.stream/playlist.m3u8
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4606.129 Safari/537.36 HxxTV/2.5 (DSG;LG/ESTCV)
-http://190.7.19.206:8098/play/a0lt/index.m3u8
+https://barinaslive1.boldmss.com/DISCOVERY_TURBO/DISCOVERY_TURBO.isml/DISCOVERY_TURBO.m3u8
 
 #EXTINF:0 tvg-id="EL GOURMET.ar" tvg-name="EL GOURMET" CUID="82" tvg-logo="http://res.cloudinary.com/doj39auqi/image/upload/v1684343608/ywvhapelbx9i9pv9y9bu.png" group-title="Argentina TV",EL GOURMET
 https://joy.nx-pc.edge-apps.net/hls/hhdd2-k3ik5-m2ha3-1b8pb.m3u8
