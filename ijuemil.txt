@@ -163,7 +163,7 @@ https://prope79d3g55.airspace-cdn.cbsivideo.com/out/v1/faa5cf8cb19e4de99417df05a
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/hoo4ddqavw/out/v1/dadfb43b8a714e4f9288026b5c3351a0/cenc.mpd|User-Agent=AivAndroidPlayer/1.0 (AndroidDevice)&Referer=https://www.primevideo.com/
 
 #EXTINF:-1 tvg-id="1148" tvg-logo="http://i.tvcluboficial.com/dazn.png" group-title="Deportes",DAZN F1 HD
-https://tvorb.net/ZTV/6918-live.m3u8
+http://m3u.tvcluboficial.com/free/ReachBot/Kip/426.m3u8
 
 #EXTINF:-1 tvg-id="DeporTV.ar" tvg-logo="https://geo.edge.pontiscloud.com:9002/images/48/CH_LOGO/160/160/0/0/13868550072195.png" group-title="Deportes",DeporTV 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -802,7 +802,7 @@ Novelas + Variedades
 #KODIPROP:inputstream.adaptive.stream_headers=referer=https://webclient.ctcplus.com.ar/
 #KODIPROP:inputstream.adaptive.stream_headers=origin=https://player.sensa.com.ar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4606.129 Safari/537.36 HxxTV/2.5 (DSG;LG/ESTCV)
-https://barinaslive1.boldmss.com/LOVE_NATURE/LOVE_NATURE.isml/LOVE_NATURE.m3u8
+http://190.108.83.69:8000/play/a085/index.m3u8
 
 
 #EXTINF:-1 tvg-id="Animal Planet.ar" tvg-logo="https://raw.githubusercontent.com/CINECITY2023/cinecity/refs/heads/cinecity.net/logos/cultura/CHanimalplanet.png" group-title="Novelas + Variedades",Animal Planet 
@@ -933,7 +933,7 @@ https://edge-live15-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ
 https://edge-live15-sl.cvattv.com.ar:443/tok_eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJleHAiOiIxNzk0ODg5NDQxIiwic2lwIjoiMTcwLjc5LjI1Mi4zOSIsInBhdGgiOiIvIiwic2Vzc2lvbl9jZG5faWQiOiJmYWMxOTBlOTgwZjNkODBjIiwic2Vzc2lvbl9pZCI6IiIsImNsaWVudF9pZCI6IiIsImRldmljZV9pZCI6IiIsIm1heF9zZXNzaW9ucyI6MCwic2Vzc2lvbl9kdXJhdGlvbiI6MCwidXJsIjoiaHR0cHM6Ly8xODEuMTIuMzYuMTUwIiwiYXVkIjoiMTA4Iiwic291cmNlcyI6Wzg4XX0=.sG7njMwBY8BtJIlYR4l7VIiOLTgAoXRGt-y_UlXVts3cqReeg--RjZ-x-4wpkM4-2n01waPbsCFP5W5oM2M_EQ==/live/c6eds/MTV_HD/SA_Live_dash_enc/MTV_HD.mpd|Origin=https://portal.app.flow.com.ar&Referer=https://portal.app.flow.com.ar/
 
 #EXTINF:-1 tvg-id="CHAPULIN COLORADO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/500px-El_Chapul%C3%ADn_Colorado_logo.svg.png",CHAPULIN COLORADO
-http://nestortv.vip:80/live/ZdPdr062024/3suu3spFc8/783520.ts
+http://starlatino.tv:8880/live/Sergioiptv2026/PWayqvCEJaj8/526504.ts
 
 #EXTINF:-1 tvg-id="CHAPULIN COLORADO 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/El_Chapul%C3%ADn_Colorado_logo.svg/500px-El_Chapul%C3%ADn_Colorado_logo.svg.png",CHAPULIN COLORADO 2
 http://starlatino.tv:8880/live/Sergioiptv2026/PWayqvCEJaj8/526505.ts
@@ -943,7 +943,7 @@ http://m3u.tvcluboficial.com/free/ReachBot/Kip/152.m3u8
 
 
 #EXTINF:-1 tvg-id="ROCKY 24/7" tvg-logo="https://e7.pngegg.com/pngimages/595/729/png-clipart-sylvester-stallone-sylvester-stallone-rocky-at-the-movies-sylvester-stallone-thumbnail.png",ROCKY 24/7
-http://deluxe-tv.vip:80/live/T3FAeRAjQBHQ/DfzFbxY7QgUe/1323247.ts
+http://starlatino.tv:8880/live/Sergioiptv2026/PWayqvCEJaj8/526420.ts
 
 #EXTINF:-1 tvg-id="PESADILLA EN LA CALLE ELM" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFvasafKnum38xD3g0EXY9jDU_3snliew6RE5ZwcCBpw&s=10",PESADILLA 24/7
 http://starlatino.tv:8880/live/Sergioiptv2026/PWayqvCEJaj8/526401.ts
